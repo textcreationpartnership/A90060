@@ -1,0 +1,802 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The all-seeing vnseen eye of God. Discovered, in a sermon preached before the Honourable House of Commons; at Margarets Westminster, December 30. 1646. being the day of their solemne monethly fast. / By Matthew Newcomen, Minister of the Gospel at Dedham in Essex, and one of the Assembly of Divines. Published by order of the Honourable House of Commons.</title>
+            <author>Newcomen, Matthew, 1610?-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 106 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90060</idno>
+            <idno type="STC">Wing N904</idno>
+            <idno type="STC">Thomason E369_6</idno>
+            <idno type="STC">ESTC R201280</idno>
+            <idno type="EEBO-CITATION">99861803</idno>
+            <idno type="PROQUEST">99861803</idno>
+            <idno type="VID">113948</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90060)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113948)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 59:E369[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The all-seeing vnseen eye of God. Discovered, in a sermon preached before the Honourable House of Commons; at Margarets Westminster, December 30. 1646. being the day of their solemne monethly fast. / By Matthew Newcomen, Minister of the Gospel at Dedham in Essex, and one of the Assembly of Divines. Published by order of the Honourable House of Commons.</title>
+                  <author>Newcomen, Matthew, 1610?-1669.</author>
+               </titleStmt>
+               <extent>[4], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.M. for Christopher Meredith, at the Crane in Pauls Church-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>M.DC.XLVII. [1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Hebrews IV, 13 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Fast-day sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:113948:1"/>
+            <opener>
+               <date>Die Mercurii <hi>30.</hi> Decemb.
+<hi>1646.</hi>
+               </date>
+            </opener>
+            <p>
+               <seg rend="decorInit">O</seg>Rdered by the Commons Aſſembled in Parliament, That Sir
+<hi>William Maſſam</hi> doe from this Houſe give thankes to M<hi rend="sup">r</hi>.
+<hi>Marſhall</hi> and M<hi rend="sup">r</hi>. <hi>Newcomen</hi> for the great paines they tooke in their Sermons they preached this day before the Com<g ref="char:EOLhyphen"/>mons at St. <hi>Margaret Weſtminſter</hi> (being a day of their publique Humiliation) and deſire them to Print their Sermons.</p>
+            <closer>
+               <signed>H. Elſynge Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="appointment_to_print">
+            <p>I appoint <hi>Stephen Bowtell</hi> to print my Ser<g ref="char:EOLhyphen"/>mon.</p>
+            <closer>
+               <signed>Stephen Marſhall.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:113948:1" rendition="simple:additions"/>
+            <p>THE ALL-SEEING VNSEEN Eye of GOD. <hi>DISCOVERED,</hi> IN A SERMON PREACHED before the Honourable Houſe of COMMONS; at <hi>Margarets Weſtminſter, December</hi> 30. 1646. being the day of their ſolemne Monethly Faſt.</p>
+            <p>By <hi>Matthew Newcomen,</hi> Miniſter of the Goſpel at
+<hi>Dedham</hi> in <hi>Eſſex,</hi> and one of the Aſſembly of Divines.</p>
+            <q>
+               <bibl>
+                  <hi>PROV. 13.3.</hi>
+               </bibl>
+               <p>The eyes of the Lord are in every place, be<g ref="char:EOLhyphen"/>holding the evil and the good.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>2 CHRON. 16.9.</hi>
+               </bibl>
+               <p>The eyes of the Lord run to and fro through<g ref="char:EOLhyphen"/>out the whole earth, to ſhew himſelf ſtrong in the behalf of them, whoſe heart is perfect towards him.</p>
+            </q>
+            <q>Deus totus oculus eſt, quia omnia videt: Totus manus eſt, quia omnia operatur, totus pes eſt, quia ubi<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> eſt.
+<bibl>
+                  <hi>Auguſt.</hi>
+               </bibl>
+            </q>
+            <p>Publiſhed by Order of the Honourable Houſe of Commons.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. M.</hi> for <hi>Chriſtopher Meredith,</hi> at the Crane in <hi>Pauls</hi> Church-yard. M.DC.XI.VII.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:113948:2"/>
+            <opener>
+               <date>Die Mercurii <hi>30.</hi> Decemb.
+<hi>1646.</hi>
+               </date>
+            </opener>
+            <p>ORdered by the Commons aſſembled in Parliament, That Sir
+<hi>William Maſ<g ref="char:EOLhyphen"/>ſam</hi> do from this Houſe give thanks to M.
+<hi>Marſhall</hi> and M. <hi>Newcomen,</hi> for the great pains they took in the Sermons they preached this day before the Commons at S<hi rend="sup">t</hi> 
+               <hi>Margarets Weſtminſter,</hi> being a day of pub<g ref="char:EOLhyphen"/>like Humiliation, and deſire them to Print their Sermons.</p>
+            <closer>
+               <signed>H. Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="appointment_to_print">
+            <p>I appoint <hi>Chriſtopher Meredith</hi> to Print my Sermon.</p>
+            <closer>
+               <signed>MATTH. NEVVCOMEN.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:113948:2"/>
+            <head>TO THE HONOVRABLE HOVSE OF COMMONS aſſembled in PARLIAMENT.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">G</seg>OD hath called You to ſit at the <hi>ſtern</hi> of this
+<hi>tempeſt-ſhaken</hi> Kingdom; the <hi>helm</hi> whereof God hath put into <hi>Your hands</hi> in a very difficult time. Some years now You have been confli<g ref="char:EOLhyphen"/>cting with <hi>croſſe</hi> and <hi>boiſterous windes and ſeas,</hi> and are not yet in <hi>ſafe harbour.</hi> Being called at this time to ſpeak unto You, I know not better how to improve the
+<hi>opportunity</hi> for the <hi>good</hi> of Your <hi>ſouls</hi> and of the
+<hi>publike,</hi> then by directing Your <hi>eyes</hi> unto that only
+<hi>Loadſtarre</hi> the <hi>eye</hi> of <hi>God;</hi> upon which if you can
+<hi>fix,</hi> You <pb facs="tcp:113948:3"/>may from thence fetch both <hi>light</hi> and<note n="*" place="margin">
+                  <hi>Pſal 32.8.</hi> I will guide thee with mine eye.</note> 
+               <hi>guidance,</hi> to <hi>ſteer</hi> Your <hi>courſe</hi> ſo, as You <hi>ſhall ſave</hi> Your <hi>ſouls,</hi> and <hi>may ſave</hi> this poor <hi>Kingdom,</hi> ſo as it doe not in <hi>portu naufragium.</hi> I know You are yet encompaſſed with <hi>rocks</hi> and <hi>ſhelves, Scylla's</hi> and <hi>Syrens, temptations</hi> on the <hi>right hand</hi> and
+<hi>on the left,</hi> but <hi>eying</hi> this <hi>eye of God,</hi> will en<g ref="char:EOLhyphen"/>able You <hi>ſteddily, unappalledly, inflexibly,</hi> to ſhape Your courſe to
+<hi>Gods glory,</hi> the <hi>publike good,</hi> and Your <hi>own happineſſe:</hi> which that You may doe, is the prayer of</p>
+            <closer>
+               <signed>Your ſervant in the Lord and in his work,
+<hi>MATTH. NEVVCOMEN.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:113948:3"/>
+            <head>A SERMON PREACHED at the Monethly Faſt, before the Honourable Houſe of COMMONS,
+<date>
+                  <hi>Decemb.</hi> 30. 1646.</date>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>HEBR. 4.13.</hi>
+                  </bibl>
+                  <p>— But all things are naked and open unto the eyes of him, with whom we have to doe.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Hat <hi>we have to doe with God</hi> at this time, I am confident we all know: O that we did as well know, who, and what this <hi>God is, with whom we have to doe.</hi> This <hi>Scripture,</hi> which you have now heard read, will help us to <hi>underſtand that,</hi> if <hi>God</hi> be pleaſed to help us <hi>to underſtand this Scripture:</hi> Wherein you have three particulars: The two firſt concerning the <hi>knowledge of God:</hi> The other concern<g ref="char:EOLhyphen"/>ing the <hi>God</hi> in whom this knowledge is.</p>
+            <pb n="2" facs="tcp:113948:4"/>
+            <p>Concerning the <hi>knowledge</hi> of God, you have here, Firſt, the <hi>extent</hi> of it: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>All things.</hi> Secondly, The <hi>quality</hi> or kinde of it. Firſt, It it is a <hi>clear</hi> or evident <hi>knowledge.</hi> All things are, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<hi>Naked.</hi> Secondly, It is a <hi>full</hi> and thorow knowledge, All things are naked and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Open.</hi> Thirdly, It is a
+<hi>perfect</hi> and <hi>infal<g ref="char:EOLhyphen"/>lible</hi> knowledge, All things are naked and open, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> unto the <hi>Eyes of him.</hi> Laſtly, You have here <hi>the God</hi> in whom this <hi>knowledge</hi> is: It is he
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>with whom we have to do <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</hi>
+            </p>
+            <p>The firſt thing in the Text, is the extent of the knowledge of God, it reacheth unto <hi>all things,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, all things:<note place="margin">Quaecun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> &amp; in Deo ſunt; quaecun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> &amp; extra Deum: Divina, &amp; non Divina: Ange<g ref="char:EOLhyphen"/>lica, humana: Coeleſtia, Terre<g ref="char:EOLhyphen"/>na: Bona, Ma<g ref="char:EOLunhyphen"/>la: Occulta, Manifeſta: Maxima, Mini<g ref="char:EOLhyphen"/>ma: <g ref="char:V">Ʋ</g>niverſa<g ref="char:EOLhyphen"/>lia, Singularia: Neceſſaria, Co<g ref="char:EOLhyphen"/>tingentia: No<g ref="char:EOLhyphen"/>biliſſima, viliſſi<g ref="char:EOLhyphen"/>ma: Quae ſunt; Quae non ſunt ſed eſſe poſsunt: Futura, non fu<g ref="char:EOLhyphen"/>tura: Praeſen<g ref="char:EOLhyphen"/>tia, praeterita: Quae fuerunt, &amp; non fuerunt: atque adeo in<g ref="char:EOLhyphen"/>finita etiam ea quae numquam futura ſunt.</note> 
+               <hi>All things</hi> that are <hi>in God,</hi> and all things that are <hi>without God.</hi> All things,
+<hi>Divine</hi> and <hi>not Divine.</hi> All things, <hi>Angelicall</hi> or
+<hi>Humane: Heavenly</hi> or <hi>earthly:</hi> All things <hi>good</hi> or
+<hi>evil, great</hi> or <hi>ſmall: ſecret</hi> or <hi>open.</hi> All things that <hi>have been,</hi> or <hi>have not been:</hi> that are, or that are not; that ſhall be, or that may be, or that never ſhall, never can be: All things paſt, preſent, future, contingent, impoſſible, <hi>All things are naked and open unto the eyes of him, with whom we have to doe.</hi>
+            </p>
+            <p>This field would be too large for me to travell over at this time, I ſhall therefore only thruſt my ſickle into one corner of it, and confine my diſcourſe unto that knowledge which God hath of men and their affairs, not only becauſe that will be moſt profitable, but alſo becauſe that ſeems to be the very reaſon why the A<g ref="char:EOLhyphen"/>poſtle mentions the Omniſcience of God in this place, that we might make application of it to our ſelves and our own actions, therefore he ſaith; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>That knowledge then, which God hath of men and of their wayes, I ſhall endeavour to ſet before you in theſe enſuing particulars.</p>
+            <pb n="3" facs="tcp:113948:4"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, God knows every man and woman, that ever were, or ſhall be, God knows them before they are: even in the wombe, even from eternity God knows them. <hi>Pſal.</hi> 139.15, 16.<note place="margin">Pſal. 139 15, 16.</note> 
+               <hi>My ſubſtance was not hid from thee when I was made in ſecret, and curiouſly wrought be<g ref="char:EOLhyphen"/>neath in the loweſt parts of the earth. Thine eyes did ſee my ſubstance yet being unperfect, and in thy book were all my members written,</hi> &amp;c. and from hence it follows, that God doth <hi>fully know</hi> the
+<hi>ſinfullneſse</hi> of that <hi>ſtate</hi> and <hi>condition</hi> that every one is born in.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, <hi>God</hi> knows <hi>all</hi> the
+<hi>wayes</hi> and <hi>works</hi> of <hi>men,</hi> from the <hi>birth,</hi> and from the <hi>wombe.</hi>
+               <note place="margin">Job 31.41.</note> So <hi>Job</hi>
+31.41. <hi>Doth he not ſee my waies, and count all my steps?</hi> Nor was this Gods ſingular exactneſſe and obſervation over <hi>Job.</hi> For
+<hi>Job</hi> 32.21, 22.<note place="margin">32.21, 22.</note> 
+               <hi>His eyes are upon the wayes of man</hi> (any man every man) <hi>and he ſeeth all his goings. There is no darkneſſe or ſhadow of death, where the workers of iniquity may hide themſelves,</hi> Jerem. 32.19.<note place="margin">Jer
+32.19.</note> 
+               <hi>Great in counſel, mighty in works, for thine eyes are open upon all the wayes of the ſons of men.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, <hi>God</hi> knows <hi>all</hi> the
+<hi>ſpeeches</hi> of <hi>all men:</hi> Every word, every ſyllable that the tongue of any one doth mutter, or whiſper, God knows it. <hi>Pſal.</hi>
+139, 4.<note place="margin">Pſal. 139.4.</note> 
+               <hi>For there is not a word in my tongue, but lo, O Lord, thou knoweſt it al<g ref="char:EOLhyphen"/>together.</hi> No man, that ſpeaks a word for God, his Cauſe or People, but God knows it; No man that ſpeaks a word againſt God, his Cauſe or People, but God knows that too; let it be ſpoken never ſo cloſely, ſecretly. <hi>Enoch</hi> tells us, that God will at that great day <hi>execute judgment upon ungodly men, for all their hard ſpeeches which they have ſpoken againſt him,</hi> Jude 15. And our Saviour tells us,<note place="margin">Jude 15.</note> that <hi>of every idle word that <pb n="4" facs="tcp:113948:5"/>men ſhall ſpeak, they ſhall give account in the day of judge<g ref="char:EOLhyphen"/>ment,</hi>
+               <note place="margin">Mat. 12.36.</note> Mat. 12.36. therefore God knows them all.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, <hi>God</hi> knows not only the
+<hi>wayes</hi> and <hi>the words,</hi>
+               <note place="margin">Iſa. 66.18. 1 Chron.
+28.9.</note> but even the <hi>thoughts of men,</hi> Iſa. 66.18. <hi>I know their works and their thoughts.</hi> 1 Chron. 28.9. <hi>The Lord ſearcheth all hearts, and underſtandeth all the imaginations of the thoughts.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Fiftly, <hi>God</hi> doth not only know <hi>the wayes,</hi> and <hi>words,</hi> and <hi>thoughts of men preſent,</hi> at that
+<hi>inſtant,</hi> while they are thinking, ſpeaking, doing theſe things: but when they are <hi>paſt</hi> and <hi>forgotten</hi> by <hi>men,</hi> they are ſtill <hi>preſent in the knowledge of God,</hi>
+               <note place="margin">Job
+13.27.</note> Job 13.27. <hi>Thou lookeſt narrow<g ref="char:EOLhyphen"/>ly to all my paths, thou ſetteſt a print</hi> (a mark, a memento) <hi>upon the heels of my feet,</hi>
+               <note place="margin">Job 14.17.</note> Job 14.17. <hi>My tranſgreſsion is ſealed up in a bag:</hi>
+               <note place="margin">Amos
+8.7.</note> 
+               <hi>and thou ſoweſt up mine iniquity,</hi> Amos 8.7. <hi>The Lord hath ſworn by the excellency of Jacob, Sure<g ref="char:EOLhyphen"/>ly I will never forget any of their works.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> Sixtly, As <hi>God</hi> knows all the <hi>wayes, words</hi> and <hi>thoughts</hi> of men <hi>preſent</hi> and <hi>paſt,</hi> ſo he knows all the <hi>wayes, words</hi> and <hi>thoughts</hi> of men that are to come. <hi>Pſal.</hi> 139.2,<note place="margin">Pſal. 139.2.</note>
+               <hi>Thou understandeſt all my thoughts afarre off.</hi> Iſa. 48.8.<note place="margin">Iſa. 48.8.</note> 
+               <hi>I knew that thou wouldeſt deal very treacherouſ<g ref="char:EOLhyphen"/>ly.</hi> God knew what <hi>Iſrael</hi> would both
+<hi>think</hi> and <hi>doe,</hi> when once they came into the land of
+<hi>Canaan,</hi> and tells it them before ever they came there.<note place="margin">Deut. 31.21.</note> 
+               <hi>Deut.</hi> 31.21. <hi>For I know their imaginations which they go about, even now before I have brought them into the land of Canaan.</hi> God knew what horrible outrages <hi>Hazael</hi> would commit when he ſhould come to be King of <hi>Syria,</hi> and tells him of it, when he could ſcarce think there was ſuch villa<g ref="char:EOLhyphen"/>ny in his heart,<note place="margin">2 King 8 12, 13.</note> 2 <hi>King.</hi> 8.12, 13. <hi>God knows</hi> not only what men have done, or doe, but what they <hi>will doe.</hi>
+            </p>
+            <pb n="5" facs="tcp:113948:5"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> Seventhly, <hi>God knows</hi> not only what
+<hi>men will do,</hi> but he knows alſo what <hi>men would do,</hi> if they were in ſuch or ſuch <hi>caſes,</hi> upon all <hi>occaſions, emergent</hi> and <hi>poſsible. Deus cognoſcit non ſolum quae fieri poſſunt a ſingulis, ſed etiam quae reipsâ fierent, quavis hypotheſi factâ: quavis occaſione propoſita, hae tamen occaſiones ſunt infinitae, imò infinitiès infinitae.</hi> God knew
+<hi>Abimelech would</hi> have de<g ref="char:EOLhyphen"/>filed himſelf and <hi>Sarah,</hi> if he had not with held him, <hi>Gen.</hi> 20.6.<note place="margin">Gen. 20.6.</note> God knew the men of <hi>Keilah would</hi> have betrayed <hi>David</hi> into the hands of <hi>Saul,</hi> if he had ſtayed among them, 1 <hi>Sam.</hi>
+23.12.<note place="margin">1 Sam. 23.12.</note> Here is one thats now <hi>a private man,</hi> God knows what he <hi>would be</hi> and <hi>doe,</hi> if he were advanced to place of <hi>publike office</hi> and authority. Here is
+<hi>one</hi> that is linked into <hi>a godly family,</hi> hath gra<g ref="char:EOLhyphen"/>cious kindred and company: God knows what he <hi>would be,</hi> if
+<hi>tranſplanted</hi> into another family. There is <hi>one</hi> that died in his <hi>infancy,</hi> God knows what he <hi>would</hi> have <hi>been</hi> and
+<hi>done,</hi> if he had lived 40, or 50, years. <hi>God</hi> knows
+<hi>all</hi> the <hi>wayes</hi> of men, <hi>paſt, preſent, future, con<g ref="char:EOLhyphen"/>tingent, poſsible.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8"/> Eightly, God knows not only <hi>all</hi> the
+<hi>wayes, words</hi> and <hi>thoughts</hi> of men, paſt, preſent, future, poſſible: But (in the next place,) God knows <hi>the hearts</hi> of all men,<note place="margin">1 King 8.39.</note> 1 King. 8.39. <hi>For thou, even thou only knoweſt the hearts of all men.</hi> God <hi>knows the hearts</hi> of all men, what frame and conſtitution they are of, whether they he
+<hi>holy</hi> or <hi>ſin<g ref="char:EOLhyphen"/>full, ſincere</hi> or hypocriticall; therefore it is, that God in Scripture is ſo often ſaid to <hi>ſearch,</hi> and
+<hi>try,</hi> and <hi>pon<g ref="char:EOLhyphen"/>der</hi> the <hi>hearts</hi> of men. 1 <hi>Chro.</hi>
+28.9.<note place="margin">1 Chro. 28.9.</note> 
+               <hi>The Lord ſearcheth all hearts.</hi> 1 Chro. 29.17. <hi>I know alſo, my God,</hi>
+               <note place="margin">29.17.</note> 
+               <hi>that thou tryeſt the heart, and haſt pleaſure in uprightneſſe.</hi> Prov. 17.3.<note place="margin">Prov.
+17.3.</note> 
+               <hi>The fining pot is for ſilver, and the furnace for gold, but the Lord <pb n="6" facs="tcp:113948:6"/>tryeth the heart.</hi>
+               <note place="margin">Prov.
+21.2.</note> Prov. 21.2. <hi>The Lord pondereth the heart.</hi> Theſe three words of <hi>ſearching, trying, pondering,</hi> the <hi>holy Ghost</hi> uſed to ſet out that full, exact, diſcerning, criticall
+<hi>knowledge,</hi> which <hi>God</hi> hath of the frame and temper of <hi>mens hearts.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="9"/> Ninthly, As <hi>God</hi> knows the
+<hi>frame</hi> and temper of all <hi>mens</hi> hearts; ſo God knows all the purpoſes and intend<g ref="char:EOLhyphen"/>ments that are in the hearts of men. In the verſe be<g ref="char:EOLhyphen"/>fore my text, it is ſaid of <hi>the word of God,</hi> That it is <hi>a diſ<g ref="char:EOLhyphen"/>cerner of the thoughts and intents of the heart,</hi>
+               <note place="margin">Heb. 4.12.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> are properly the ſecret and inward workings of paſſions and affections, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, are the ſecret and firſt workings of mens under<g ref="char:EOLhyphen"/>ſtandings and apprehenſions: Now both the one and the other, God ſees them: and therefore that is ren<g ref="char:EOLhyphen"/>dred as a reaſon why the word of God doth diſcern them. The word of God is <hi>a diſcerner of the thoughts and intents of the heart: for there is no creature that is not manifest in his ſight: but all things are naked and open,</hi> even the <hi>intents</hi> and purpoſes of <hi>mens hearts.</hi> Job. 33.17. Theſe and theſe things,<note place="margin">Job
+33.17.</note> ſaith <hi>Elihu,</hi> God doth, to <hi>withdraw man from his purpoſe,</hi> &amp;c.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="10"/> Tenthly, <hi>God knows</hi> the
+<hi>iuclinations</hi> and <hi>deſires</hi> of all <hi>mens hearts.</hi> Iſa. 32.6. <hi>The vilde perſon will ſpeak vildely, and his heart will work iniquity:</hi>
+               <note place="margin">Iſa. 32.6.</note> God ſees the hearts of wicked men, hankering and propending after their wickedneſſe:<note place="margin">Ezck.
+33.31.</note> his heart will work iniquity. <hi>Ezek.</hi> 33.31. <hi>They come before thee as my people cometh, and they ſit before thee as my people ſitteth, and they hear thy words, but they will not doe them, but their heart goeth after their covetouſneſſe.</hi> God faw, that though they pretended to be devout and religious attenders upon his word, yet <pb n="7" facs="tcp:113948:6"/>the bent and by as of their heart was after the world. Their heart was toward their covetouſnes. And ſo again God ſeeth how the bent and inclination of his peoples heart is towards him. <hi>Jer.</hi> 12.3.<note place="margin">Jer.
+12.3.</note> 
+               <hi>Thou O Lord knowest me: thou haſt ſeen me, and tryed my heart towards thee.</hi> All their inward breathings, and ſecret liftings up of deſire after God, are known to him. <hi>Pſal.</hi> 38.9.<note place="margin">Pſal. 38.9.</note> 
+               <hi>Lord all my deſire is before thee, and my groaning is not hid from thee.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="11"/> Eleventhly, <hi>God knows</hi> all the
+<hi>deſignes</hi> and <hi>Projects</hi> of all mens hearts. I mention theſe as diſtinct from <hi>purpoſes</hi> and <hi>intendments,</hi> becauſe mens purpoſes, are many times but ſudden and ſlight motions, and of lit<g ref="char:EOLhyphen"/>tle value with themſelves. But <hi>deſignes</hi> and <hi>projects</hi> are deep and elaborate things, have more ſtudy and pains beſtowed upon them: you ſhall have a man forging a deſigne, weeks, moneths, years; and working it with that ſecrecy, that as <hi>Alexander</hi> ſaid, if he thought his ſhirt upon his back knew it, he would pull it off and burn it. But God knoweth all theſe deſignes and projects be they never ſo deeply laid,<note place="margin">Job 12.22. 1 Cor. 5.5.</note> never ſo cloſely carried, <hi>Job</hi> 12.22. <hi>He diſcovereth deep things out of darkneſſe,</hi> 1 Cor. 4.5. <hi>God will both bring to light the hidden things of darkneſse, and will make manifeſt the counſells of the heart,</hi> Job 5.12.<note place="margin">Job 5.12.</note> 
+               <hi>He diſappointeth the de<g ref="char:EOLhyphen"/>vices of the crafty, ſo that their hands cannot perform their work.</hi> An inſtance of this you have,<note place="margin">Dan. 11.20, —27.</note> 
+               <hi>Dan.</hi> 11.20—27. where God foretells the ſeverall projects and deviſes whereby <hi>Antiochus</hi> ſhould work himſelf into the king<g ref="char:EOLhyphen"/>dom of <hi>Syria,</hi> and almoſt into the kingdom of
+<hi>Egypt,</hi> and then <hi>verſ.</hi> 27. how he and <hi>Ptolomee</hi> King of <hi>Egypt</hi> ſhall project to over-reach one another: <hi>And both theſe Kings hearts ſhall be to do miſchief, and they ſhall ſpeak lies
+<pb n="8" facs="tcp:113948:7"/>at one table, but it ſhall not proſper.</hi> As if God had ſaid, after the warre between theſe two Kings, there ſhall be an interview, or a treaty for peace (pretended at leaſt) but there will be nothing but miſchief in their hearts; no though they may entertain one another with complements, and fair words; yet they are but lies and pretences,
+<hi>they ſhall both ſpeak lies at one table.</hi> God knows all the deſignes and projects of Kings, and great polititians, both in their managing of wars, and in their treaties of peace. Thus you ſee, God know<g ref="char:EOLhyphen"/>eth all things: all perſons, all their <hi>actions,</hi> all their <hi>words;</hi> all their <hi>thoughts, paſt</hi> as well as <hi>preſent, future</hi> as well as <hi>paſt, contingent</hi> or <hi>poſsible;</hi> all their
+<hi>hearts,</hi> all their <hi>intendments</hi> and <hi>purpoſes;</hi> all their <hi>inclinations</hi> and <hi>diſires,</hi> all their <hi>projects</hi> and <hi>deſignes.</hi> And ſo you ſee in ſome meaſure the
+<hi>extent</hi> of the <hi>knowledge</hi> of God, <hi>all things.</hi> The next words will ſhew us the na<g ref="char:EOLhyphen"/>ture of this knowledge which God hath of all things. It is 1. a <hi>clear</hi> and <hi>distinct</hi> knowledge, <hi>all things are na<g ref="char:EOLhyphen"/>ked.</hi> It is 2. a <hi>full and through</hi> knowledge, <hi>all things are naked and open.</hi> It is 3. an <hi>Intuitive, comprehenſive, infallible</hi> knowledge, <hi>all things are naked and open unto his eyes.</hi>
+            </p>
+            <p>Firſt, This knowledge which <hi>God</hi> hath of <hi>all things,</hi> it is <hi>clear</hi> and <hi>distinct.</hi> All things are
+<hi>naked.</hi> Men may put ſuch <hi>colours</hi> and <hi>dreſſes</hi> upon themſelves, and waies, as they may make a ſhift to <hi>hide</hi> themſelves from the <hi>eyes of men:</hi> But <hi>no</hi> pretences,
+<hi>no</hi> excuſes can <hi>hide</hi> them from the <hi>ſight of God,</hi> no more then a peece of tranſpa<g ref="char:EOLhyphen"/>rent glaſſe can cover them from the beam of the Sun. <hi>All things are naked,</hi> unmasked, unclothed, their dreſſe and paint taken off. God beholds all things in their
+<pb n="9" facs="tcp:113948:7"/>
+               <hi>naked</hi> and <hi>ſimple</hi> realities. What a fine colour had <hi>Si<g ref="char:EOLhyphen"/>meon</hi> and <hi>Levi,</hi>
+               <note place="margin">Gen.
+34.14.</note> for their urging circumciſion upon the <hi>men of Shechem?</hi> they pretended <hi>Religion</hi> and the <hi>Law</hi> of their God; whereas in truth, it was <hi>revenge</hi> and <hi>thirſt of blood</hi> acted them, and this <hi>God</hi> ſaw, though <hi>Hamor</hi> and <hi>Sechem</hi> ſaw it not. What a colour did <hi>Ieroboam</hi> put upon his Idols which he ſet up at <hi>Dan</hi> and <hi>Bethel,</hi>
+               <note place="margin">1 King. 12.15,
+30.</note> as if he ſtudied nothing but the peoples eaſe, and becauſe it was too far for the people to go up to <hi>Hieruſalem,</hi> therefore he would accommodate them with Chappels of eaſe. But the <hi>naked truth</hi> was, a deſigne to eſtabliſh the Kingdom to him and his, and to keep the people from returning to the houſe of <hi>David,</hi> and this God ſaw, and did ſo blaſt him, that that which he intended for the ſtability, proved the ruine of his houſe and Kingdom. What a face of <hi>Zeal</hi> for God did
+<hi>Jehu</hi> put on in executing the judgement of the Lord upon <hi>A<g ref="char:EOLhyphen"/>haz</hi> and his family? and when he hath done, can vouch warrant from God for it.<note place="margin">2 King. 9.25, 36.</note> 
+               <hi>This is that which the Lord ſpake by his ſervant Elijah:</hi> and can ſay, Come ſee my zeal for the Lord of hoſts. But God knew it was to rid himſelf of competitors for the Kingdom, and to aſſure the Throne to himſelf and his, that <hi>Jehu</hi> did this, and therefore God threatens <hi>to avenge the blood of Iezreel,</hi> Hoſ.
+1.4. <hi>on the houſe of Iehu,</hi> becauſe though he did the thing that God commanded,<note place="margin">Hoſ. 1.4.</note> yet he made the command of God but a colour for his own ends. How pious and devout did the
+<hi>Phariſees</hi> ſeem! the peo<g ref="char:EOLhyphen"/>ple thought them the only Saints upon earth: but our Saviour tells them; that God looked upon them, not according to what they did appear, but according to what they were; their colours, and ſhews, and viſards <pb n="10" facs="tcp:113948:8"/>of holineſſe, could not blear the eyes of God. So our Saviour,<note place="margin">Luk. 16.15.</note> 
+               <hi>Luk.</hi>
+16.15. <hi>Ye are they which juſtifie your ſelves before men, but God knoweth your hearts; for that which is highly eſteemed among men, is abomination in the ſight of God.</hi> Men may be ſuch artificiall diſſemblers, as not only to be able to juſtifie themſelves before men, but to gain a high eſteem among them, and yet be an a<g ref="char:EOLhyphen"/>bomination unto God who knows their hearts, and unto whom all things are naked.</p>
+            <p>All things are naked and <hi>open:</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>:
+<hi>a<g ref="char:EOLhyphen"/>perta,</hi> ſo the <hi>Vulgar:</hi>
+               <note place="margin">Chryſoſt. ad loo.</note> 
+               <hi>Reſupinata,</hi> ſo <hi>Eraſmus: intimè pa<g ref="char:EOLhyphen"/>tentia,</hi> ſo <hi>Beza. Chryſoſtome</hi> ſaith, it is
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a <hi>metaphor</hi> taken from the skins flayed off from the ſacrifices: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> &amp;c. for as when a man (ſaith he) hath ſlain the ſactifice, and flayed off the skin, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, all the inwards of the beaſt are laid open and bare to any eye: ſo
+<hi>all</hi> things, the very <hi>inſide</hi> of them, are <hi>naked</hi> and open un<g ref="char:EOLhyphen"/>to God: And <hi>Camerarius</hi> approves this explication of the word.
+<hi>Beza</hi> carries it further, and ſaith, it is a <hi>me<g ref="char:EOLhyphen"/>taphor</hi> taken from beaſts, which are not only flayed, but chin'd down the back-bone;
+<hi>
+                  <g ref="char:V">Ʋ</g>t totae foris &amp; intus oculis pateant.</hi> So another, <hi>Sicut cum animal per cerviceni &amp; ſpinam dorſi ita dividitur, ut viſcera omnia pateant. Camero</hi> thinks it a <hi>metaphor, à re Palaeſtricâ.</hi> Some make the three words in my Text, three degrees of the knowledge of God, <hi>videre, denudare, aperire;</hi> a thing may be
+<hi>ſeen.</hi> (ſaith <hi>Athanaſius</hi>) but not <hi>ſeen naked;</hi> or it may be <hi>ſeen naked,</hi> but not <hi>open.</hi> It is one thing to ſee a ſheep alive with the skin and the fleece on, another thing to ſee it naked and flayed; and yet a further thing to ſee it opened: and certainly this phraſe doth ſignifie <pb n="11" facs="tcp:113948:8"/>a moſt intimate,<note place="margin">Ad populum phaleras, ego te intus &amp; in cer<g ref="char:EOLhyphen"/>te novi.
+<hi>Perſ.</hi>
+               </note> full and thorow knowledge of all things, and hath the force of that proverbiall ſpeech, <hi>intus, &amp; incute.</hi>
+            </p>
+            <p>All things are not only <hi>naked,</hi> without clokes or colours, but <hi>ript open,</hi> unbowell'd, anatomiſed, turned inſide outward in the eye of God. There is nothing ſo reſerved, ſo hidden <hi>in man</hi> or <hi>from man,</hi> but it is <hi>open</hi> to the <hi>eye of God.</hi> Many men have their <hi>Arcana,</hi> their ſe<g ref="char:EOLhyphen"/>cret waies of luſt which they would not diſcover, no not to their friend which is as their own ſoul: but even theſe are open unto God.<note place="margin">Pſal. 90.8.</note>
+               <hi>Pſal.</hi> 90.8. <hi>Thou hast ſet our iniquities before thee, even our ſecret ſins in the light of thy countenance.</hi> And there are
+<hi>two</hi> things in all men which are hidden <hi>ſecrets,</hi> the
+<hi>principles from which,</hi> and the <hi>ends for which</hi> they act; theſe are like that path, of which <hi>Iob</hi> ſaith, <hi>the Vultures eye hath not ſeen it,</hi> Job 28.7. but even theſe are naked and open to the eye of God<g ref="char:punc">▪</g> 
+               <hi>All things, are naked and open.</hi>
+            </p>
+            <p>
+               <hi>All things are naked and open unto the eyes of him.</hi> This ſhews that the knowledge which God hath of all things, is not an
+<hi>uncertain, conjecturall, fallible</hi> know<g ref="char:EOLhyphen"/>ledge; but a <hi>certain, intuitive, infallible</hi> knowledge: That it is not an <hi>imperfect, ſucceſsive, potentiall</hi> know<g ref="char:EOLhyphen"/>ledge, but a <hi>perfect, comprehenſive, actuall</hi> knowledge. All things are naked and open unto the eyes of him.</p>
+            <p>This knowledge which God hath of all things, it is (I ſay) not an <hi>uncertain,</hi> conjecturall, fallible know<g ref="char:EOLhyphen"/>ledge, but a
+<hi>certain</hi> and <hi>infallible</hi> knowledge; a know<g ref="char:EOLhyphen"/>ledge that hath in it, <hi>evidentiam &amp; certitudinem.</hi> The knowledge of the eye is the moſt certain and evident knowledge; we ſay, <hi>viſus non fallitur circa proprium ob<g ref="char:EOLhyphen"/>jectum:</hi> if the <hi>organ</hi> and the <hi>medium</hi> be rightly diſpoſed, <pb n="12" facs="tcp:113948:9"/>a mans eye cannot deceive him; therefore we ſay, we will beleeve our own eyes againſt all the world. Now Gods eye is (as I may ſo ſay,) both the <hi>organ</hi> and <hi>me<g ref="char:EOLhyphen"/>dium</hi> of his ſeeing: We ſee things by the light of the Sun, but the Sun ſeeth all things by his own light, ſo doth God.<note place="margin">Et totus videt &amp; totum, quia minime fallitur quia minime claudit, quia extra ſe lumen non quaerit ut videat: ipſe e<g ref="char:EOLhyphen"/>nim eſt qui vi<g ref="char:EOLhyphen"/>det &amp; unde videt.
+<hi>Bern.</hi>
+               </note> All that is God ſeeth, and God ſeeth all that is, and is not deceived, becauſe he needs not light from without himſelf to ſee by, for he it is that ſeeth, and from himſelf it is that he ſeeth.</p>
+            <p>Again, This knowledge which God hath of all things, it is not a
+<hi>potentiall, partiall, imperfect</hi> know<g ref="char:EOLhyphen"/>ledge, but an <hi>actuall, comprehenſive, perfect</hi> knowledge. God with one <hi>infinite, individed</hi> act of his underſtand<g ref="char:EOLhyphen"/>ing, knows at once, <hi>all things</hi> that <hi>ever were, are,</hi> or <hi>ſhall be,</hi> yea <hi>infinite things that never were, nor ever ſhall be.</hi> God doth not take up the knowledge of things as we doe, <hi>per diſcurſum,</hi> or <hi>per ſucceſsionem,</hi> or <hi>per compoſitionem.</hi> God doth not know,
+<hi>unum poſt a<g ref="char:EOLhyphen"/>liud,</hi> one thing after another; nor <hi>unum per aliud,</hi> one thing by another; but his infinite underſtanding graſps all things, <hi>ſimul &amp; ſemel:</hi> to his infinite eye all things are
+<hi>naked and open</hi> at one view.<note place="margin">Non enim me<g ref="char:EOLhyphen"/>re noſtro ille vel quod futu<g ref="char:EOLhyphen"/>rum eſt prospi<g ref="char:EOLhyphen"/>cit: vel quod praeſens aspicit, vel quod prae<g ref="char:EOLhyphen"/>teritum eſt re<g ref="char:EOLhyphen"/>spicit, <hi>&amp;c Aug.</hi>
+               </note> God doth neither look back upon what is paſt, nor look forward upon what is to come, nor look right forth upon what is before him, as our manner is; but in a manner farre differing from what we are wont to doe. God doth not remove his thoughts from one thing to another, but ſeeth all things altogether unchangeably. God doth not ſee things otherwiſe with his minde, then with his eye, for he is not made up of ſoul and body. Nor doth God ſee things otherwiſe now then he did heretofore, or then he will hereafter; for in Gods underſtanding there
+<pb n="13" facs="tcp:113948:9"/>are not thoſe differences of time paſt, preſent, and to come, as there are in ours; for in his incorporeall view, all things are preſent together, thus <hi>Auguſtine.</hi>
+               <note place="margin">Oculus Dei &amp; longinqua capit, quia ubi<g ref="char:EOLhyphen"/>que praeſens eſt, &amp; intima, quia in omni<g ref="char:EOLhyphen"/>bus eſt, &amp; ſub<g ref="char:EOLhyphen"/>tilia, quia per<g ref="char:EOLhyphen"/>ſpicax eſt, &amp; maxima, quia omnia in ipſô ſunt. <hi>Hugo</hi> de S. Victore. Poteſt oculus hominis in vi<g ref="char:EOLhyphen"/>ſione facile praepediri ac de<g ref="char:EOLhyphen"/>cipi ſpiſſitudine tenebrarum, profunditate no<g ref="char:EOLhyphen"/>ctis, obſcuritate nubium, altera<g ref="char:EOLhyphen"/>tione aëris, lon<g ref="char:EOLhyphen"/>ginquitate loci, inequalitate ob<g ref="char:EOLhyphen"/>jecti, turbatione humorum, diſſi<g ref="char:EOLhyphen"/>patione specie<g ref="char:EOLhyphen"/>rum, velocitate motus, &amp; cen<g ref="char:EOLhyphen"/>tum id genus illuſionibus ac impedimentis internis, externis, naturalibus &amp; artificiatis, veris ac praeſtigioſis, hominum &amp; diabolorum. Non item oculus Dei, qui ſolus ſeipſo per infini<g ref="char:EOLhyphen"/>tum &amp; increatum lumen, eliminat tenebras, dispellit noctem, caliginem diſſipat, obſcuritatem irradiat, conſumit nubes, coelum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> aërem<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſerenat. Solus ille neque nimia objecti propinquitate retunditur, neque longinquitate ſuperatur, nec laſſeſcit diuturnitate exercitij, nec humorum al<g ref="char:EOLhyphen"/>teratione inficitur. Solus non mendicat cognitionem ſuam vel ab objecto &amp; ſpecie, vel a ſenſibili luce &amp; colore, vel a motu &amp; medio. Solus non menſuratur tempore, non coercelur loco, non concluditur termino, non excluditur impedimento, non debilitatur ſenio, non corrumpitur morbo, non decipitur arte, non faſcinatur praeſtigijs, ſed videt quocun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> loco, ac tempore, omnem cu<g ref="char:EOLhyphen"/>ram &amp; occupationem, omne bonum &amp; malum, quodvis damnum, dictum, factum, tentatum, &amp; cogitatum. <hi>July Mazarinus</hi> in
+<hi>Pſal 50.</hi>
+               </note> The eye, of God, my brethren, is not like the eye of man, that cannot ſee at a diſtance, or cannot look upon many things at once, fixedly: No, the eye of God ſeeth the remoteſt things, becauſe he is every where: the moſt ſecret and inward things, becauſe he is in all things; the moſt ſubtile things, becauſe his eye is ſharp, and piercing: the greateſt things, becauſe all things are in him. The eye of man may be hindred from ſeeing, or deluded in its ſight, either by blackneſſe of dark<g ref="char:EOLhyphen"/>neſſe, depth of night, thickneſſe of clouds, alteration of of ayre, diſtance of place, indiſpoſition of the object or organ, ſcattering of the ſpecies, change of the <hi>medium,</hi> ſwiftneſſe of motion, and an hundred ſuch impedi<g ref="char:EOLhyphen"/>ments, inward, outward, naturall, artificiall. It is not ſo with the eye of God, who alone by his own infinite and uncreated light, chaſeth away darkneſſe, diſpels the night, inlightens obſcurity, <hi>&amp;c.</hi> his eye is neither hin<g ref="char:EOLhyphen"/>dred by too much neerneſſe, nor by too much remote<g ref="char:EOLhyphen"/>neſſe of the object, nor is it wearied with continuall ſeeing. He alone doth not borrow his ſight, neither from the object nor from the ſpecies, nor from light <pb n="14" facs="tcp:113948:10"/>and colour, nor from motion. His ſight is neither li<g ref="char:EOLhyphen"/>mited to time, nor confined to place, <hi>&amp;c.</hi> but he ſees at all times, and in all places: every endeavour, every employment, every wrong, every word, deed, attempt, thought: <hi>All things are</hi> (at once) <hi>naked and open unto the eyes of him, with whom we have to doe.</hi>
+            </p>
+            <p>
+               <hi>Of him with whom we have to do.</hi> Theſe words ſet out the perſon in whom this knowledge is, and that is he, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. The words are diverſly tranſla<g ref="char:EOLhyphen"/>ted and interpreted.</p>
+            <p>The <hi>Syriack</hi> renders it thus,<note place="margin">Teoſt is. Tremell.</note> of him to whom we muſt give an account. And this ſenſe <hi>Chryſoſtom</hi> gives of the words, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, with whom we have to do, for un<g ref="char:EOLhyphen"/>to him we muſt give account of what wee have done. So then it is worth our conſidering, that all things are naked and open to the eyes of him, unto whom every one of us muſt give account of himſelf.</p>
+            <p>The <hi>Vulgar</hi> Latine reads it, <hi>ad quem nobis ſermo,</hi> and ſo <hi>Eraſmus</hi> and <hi>Camerarius, quem alloquimur,</hi> whom we ſpeak to. And this alſo is worthy our conſideration; Everytime we come to ſpeak to God in prayer, that all things are naked and open unto the eyes of him, to whom we are ſpeaking when we are in prayer.</p>
+            <p>
+               <hi>Calvin</hi> and <hi>Beza</hi> render it,<note place="margin">Phil. 3.21.</note> 
+               <hi>quicum nobis eſt Negotium,</hi> which is according to our tranſlation, with whom we have to do. The whole life of a Chriſtian is a <hi>Nego<g ref="char:EOLhyphen"/>tiation</hi> with God. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Our traffick our buſineſſe is in heaven, with God, even then when we think we have to do with this, and that man, even then we have to do with God. In every thing we do, we have to do with God: ô that we could remember
+<pb n="15" facs="tcp:113948:10"/>this, and withall remember that all things are naked and open unto the eyes of him, with whom we have to do.</p>
+            <p>Others from the connexion of this verſe with the former, wherein the Apoſtle had been ſpeaking of the Miniſtry of the Goſpel, and the efficacy thereof, give this ſence of the words, <hi>Deus quicum nobis res eſt, quando cum verbo ejus nobis res eſt, omnia perſpicit:</hi> God with whom we have to do when we have to do with his word, ſeeth all things. Now ô that we could Re<g ref="char:EOLhyphen"/>member this: That when we have to do with the word of God either to handle, or to hear it, we have to do with God: and withall remember, <hi>that all things are naked and open unto the eyes of him, with whom we have to do,</hi> when we are ſpeaking or hearing this word. And thus you have the meaning of theſe words, <hi>all things are naked and open unto the eyes of him, with whom we have to do.</hi>
+            </p>
+            <p>And it muſt needs be thus. Firſt becauſe of the <hi>infinite perfection of God.</hi> God is a being of <hi>infinite per<g ref="char:EOLhyphen"/>fection.</hi> All
+<hi>excellencies</hi> and <hi>perfections</hi> are in God af<g ref="char:EOLhyphen"/>ter a moſt
+<hi>eminent</hi> and <hi>infinite</hi> manner;<note place="margin">Omnia quae fe<g ref="char:EOLhyphen"/>cit, id eſt ſpiri<g ref="char:EOLhyphen"/>tus &amp; corpo<g ref="char:EOLhyphen"/>ra; ſumma &amp; ima; coeleſtia &amp; terreſtria; viventia &amp; quibus facul<g ref="char:EOLhyphen"/>tatem vivendi non dedit, inef<g ref="char:EOLhyphen"/>fabiliter, ubi<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> &amp; totus, im<g ref="char:EOLhyphen"/>plet &amp; conti<g ref="char:EOLhyphen"/>net Deus
+<hi>Aug.</hi> lib de fide ad <hi>Peir.</hi>
+               </note> and therefore as
+<hi>life,</hi> and <hi>power,</hi> and <hi>goodneſſe,</hi> and other
+<hi>excellencies</hi> are in God, ſo alſo <hi>knowledge.</hi> Which is one of the high<g ref="char:EOLhyphen"/>eſt excellencies and perfections of life, is in him, in infinite perfection. If there were any thing which God did not know, God could not be
+<hi>perfect</hi> nor <hi>hap<g ref="char:EOLhyphen"/>py</hi> in his life and being.</p>
+            <p>Secondly, This is demonſtrated from Gods
+<hi>emni<g ref="char:EOLhyphen"/>preſence.</hi> God is in all things, and therefore knows all things. God after an unſpeakable manner doth e<g ref="char:EOLhyphen"/>verywhere fill all things which he hath made, ſpirits, <pb n="16" facs="tcp:113948:11"/>bodies, things that are above, and things that are be<g ref="char:EOLhyphen"/>neath, things in heaven,<note place="margin">Qui tenetonnia, imples omnia, circumplecter is omnia, ſup<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r. excedis omnia, ſuſtines omnia: nec ex alia par<g ref="char:EOLhyphen"/>te imples, ex alia parte cir<g ref="char:EOLhyphen"/>cumplecteris: ſed circum<g ref="char:EOLhyphen"/>plectendo im<g ref="char:EOLhyphen"/>ples, &amp; im<g ref="char:EOLhyphen"/>plendo circum<g ref="char:EOLhyphen"/>plecteris, ſuſti<g ref="char:EOLhyphen"/>nendo ſuperex<g ref="char:EOLhyphen"/>cedis, &amp; ſuper<g ref="char:EOLhyphen"/>excedendo ſuſ<g ref="char:EOLhyphen"/>tines. <hi>Auguſt.</hi>
+               </note> and things in earth, things that have life, and things that have no life. Thou hold<g ref="char:EOLhyphen"/>eſt all things, and filleſt all things, and encompaſſeſt all things, and art above all things, and ſuſtaineſt all things: neither doſt thou fill them on the one ſide, and encompaſſe them on the other, but by encompaſ<g ref="char:EOLhyphen"/>ſing doſt fill them, and by filling doſt encompaſſe them: by ſuſtaining them, thou art above them, and by being above them, thou doſt ſuſtain them. Needs muſt that God that thus fills all things, know all things. <hi>Si animo as mente ſphaeram contemplemur magnitudine ac virtute infinitam, cujus centrum ubi<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſit, circumferentia nuſquam:</hi> Suppoſe we in our thoughts, a ſphere of infinite greatneſſe and efficacy, whoſe center is every where, but hath no circumference; it will neceſſarily follow, that what ever thing or things be, beſides this ſphere, muſt neceſſarily be within this ſphere, encom<g ref="char:EOLhyphen"/>paſſed by it, and conteined in it: and all things exiſ<g ref="char:EOLhyphen"/>ting within this ſphere it will follow,<note place="margin">Arias Monta<g ref="char:EOLhyphen"/>nus in Hiſtoria naturae.</note> 
+               <hi>nihil agi poſſe quod ab illâ non ſentiatur,</hi> There is no action nor moti<g ref="char:EOLhyphen"/>on but this ſphere will perceive it. Such is God, a ſphere of infinite Being, Life, underſtanding, encom<g ref="char:EOLhyphen"/>paſſing all things, filling all things, and therefore know<g ref="char:EOLhyphen"/>ing all things. <hi>David</hi> proves God omniſcient from his omnipreſence, Pſal.
+134.2. <hi>Thou knoweſt my down<g ref="char:EOLhyphen"/>ſitting, my upriſing, thou underſtandeſt my thoughts afarre off: There is not a word in my tongue, but, Lord, thou know<g ref="char:EOLhyphen"/>eſt it alltogether:</hi> there is his acknowledgement of Gods omniſcience. But then, <hi>thou compaſseſt my paths, and my lying down,</hi> verſ. 3. <hi>Thou hast beſet me behinde and before,</hi> verſ.
+5. <hi>and whether ſhall I go from thy ſpirit, <pb n="17" facs="tcp:113948:11"/>and whither ſhall I flee from thy preſence?</hi> ver. 7, 8, 9, 10, 11. They are acknowledgements of Gods omnipreſence as demonſtrations of his omniſcience. And ſo God himſelf argues, Jer. 23.24. <hi>Can any hide himſelf in ſecret places that I ſhall not ſee him, ſaith the Lord? do not I fill heaven and earth?</hi>
+            </p>
+            <p>Thirdly, This omniſcience of God is further de<g ref="char:EOLhyphen"/>monſtrated, from that influence which God hath into all things. It is God that gives life, being, motion, power, activity, action, unto all things, <hi>Act.</hi> 17.27.
+<hi>In him we live and move and have our being.</hi> All things that have being, God gave that being to them; all things that have life, God gave that life to them; all things that move, God gives that motion to them, not only the power, but the act; no man can move a hand ora foot to any action; no man can move his tongue to ſpeak a word; no man can move in one thought of his heart, without Gods concurrence to that moti<g ref="char:EOLhyphen"/>on: There is no action or motion of any creature man or Angel, but God concurs to it, by way of ſup<g ref="char:EOLhyphen"/>port and cooperation as it is a naturall action, or moti<g ref="char:EOLhyphen"/>on, by way of ſpeciall aſſiſtance, if it be a gracious and holy action; by way of permiſſion and ſufferance, if it be ſinfull. Even in our ſins, the action,
+<hi>quà actio,</hi> is from God, the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> irregularity of it is from our ſelves. Now this is a further demonſtration that God knows all things; and this argument alſo <hi>David</hi> uſeth in the 139.
+<hi>Pſal.</hi> 15, 16. And thus now I have done with the explication of the Text, and demonſtration of the truth conteined in it; I come now to the appli<g ref="char:EOLhyphen"/>cation of it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> The firſt improvement that I will make of this <pb n="18" facs="tcp:113948:12"/>point ſhall be for <hi>Information. All things are naked and open unto God.</hi> God is <hi>Omniſcient;</hi> If ſo, then this in<g ref="char:EOLhyphen"/>formes us, that <hi>Jeſus Chriſt</hi> is <hi>God,</hi> and the
+<hi>holy Ghoſt</hi> is God, for <hi>Jeſus Chriſt</hi> is
+<hi>Omniſcient,</hi> and the <hi>holy Ghoſt</hi> is <hi>Omniſcient.</hi> Omniſcience is an incommunicable at<g ref="char:EOLhyphen"/>tribute, and therefore the ſervants of God from thoſe Scriptures that attribute omniſcience to Chriſt and to the holy Ghoſt (as many Scriptures you know do) have ſucceſſefully and invincibly maintained the Deity of Chriſt and of the holy Ghoſt,<note place="margin">Joh.
+2.24, 25. Joh. 21.17. Luk. 10.12. 1 Cor. 2.10, 11.</note> againſt the blaſphe<g ref="char:EOLhyphen"/>mous oppugners of it. <hi>Chryſoſtom</hi> applyes theſe words of my text unto <hi>Chriſt,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> he ſpeaks of the Sonne, and ſaith, with whom we have to do. I ſpeak not this as if I ſuſpect<g ref="char:EOLhyphen"/>ed any in this auditory guilty of ſo foul a crime as the
+<hi>denial</hi> of the <hi>Godhead</hi> of <hi>Christ,</hi> or of the <hi>holy Ghost</hi> (though I fear, there is as much of this blaſphemy in
+<hi>England</hi> at this day, as ever was ſince the name of Chriſt was known in <hi>England.</hi>) But I ſpeak it only to let you ſee, how pious and juſt it is in the Honoura<g ref="char:EOLhyphen"/>ble houſes, that as they have begun to declare their zeal for God in making a law that men may no longer
+<hi>impunè</hi> wickedly, and pertinatiouſly blaſpheme his glorious eſſence, and attributes: So to ſhew the like zeal for the glory of his eternall Sonne, and Spirit. This is the will of God, <hi>that all men ſhould honour the Son, even as they honour the Father, he that honoureth not the Son, honoureth not the Father,</hi> Joh. 5.23.</p>
+            <p>In the daies of <hi>Theodoſius,</hi> the <hi>Arrians</hi> through his connivence were grown very bold, and not only had their meetings in
+<hi>Conſtantinople,</hi> the chief City of the Empire,<note place="margin">
+                  <hi>Theodo.</hi> 5.16.</note> but would diſpute their opinions;
+<hi>etiam in <pb n="19" facs="tcp:113948:12"/>foro,</hi> and no man could prevail with the Emperour to lay reſtraints upon them, becauſe, ſaith the Hiſtorian, he thought it, <hi>nimis ſeverum &amp; inclemens eſſe;</hi> at length comes to <hi>Constantinople</hi> one <hi>Amphilochius</hi> Biſhop of
+<hi>Iconium,</hi> a poor Town; an honeſt man but no great po<g ref="char:EOLhyphen"/>lititian for the world,<note place="margin">
+                  <hi>Sozom.</hi> 7.</note> he petitions the Emperour to reſtrain the <hi>Arrians,</hi> but in vain: Next time he comes to the Court, finding the Emperour and his ſon <hi>Ar<g ref="char:EOLhyphen"/>cadius</hi> (whom he had lately created joint Emperour) ſtanding together, he doth very low obeyſance to the father, but none to the ſon; but coming cloſe up to him, in a familiar manner ſtroketh him on the head and ſaith, <hi>Salve mi fili,</hi> God ſave you my childe. The old Emperour taking this for a great affront, be<g ref="char:EOLhyphen"/>ing full of rage, bids turn the man out of doors: As the officers were dragging him forth, he turning to the Emperour ſaith, <hi>ad hunc modum extſtima, ô Imperator, &amp;c.</hi> Make account, O Emperour, that thus, even thus is the heavenly father diſpleaſed with thoſe that do not honour the Son equally with the Father: which the Emperour hearing, calls the Biſhop back again, asks him forgiveneſſe, preſently makes a law againſt
+<hi>Arrianiſme,</hi> forbids their meetings and diſpu<g ref="char:EOLhyphen"/>tations,
+<hi>conſtitutâ poenâ.</hi> Here was a bleſſed artifice, by which the zeal of this Emperour was ſuddenly turned into the right channell: and he was taught by his ten<g ref="char:EOLhyphen"/>derneſſe over his own honour, and the honour of his ſon, to be tender over the honour of God and his Son Jeſus.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> In the ſecond place this, That
+<hi>all things are naked and open unto the eyes of God,</hi> confutes thoſe that ſay, God ſeeth not, knows not ſin. And ſecondly,
+<pb n="20" facs="tcp:113948:13"/>That ſay, God ſeeth not ſin in his children.</p>
+            <p>
+               <note place="margin">Averroes. Vorſtius.</note> Firſt, Such as ſay, God ſeeth not ſin. God (ſay they) knows all things by knowing himſelf, and by looking upon himſelf, ſeeth all things in himſelf,
+<hi>tanquam in ſpeculo.</hi> Now God, ſay they, cannot ſee ſin in himſelf, for it is not in him, therefore God cannot ſee ſin. Be<g ref="char:EOLhyphen"/>ſides,<note place="margin">Hab. 1.13.</note> Scripture ſaith,
+<hi>Hab.</hi> 1.13. <hi>Thou art of purer eyes then to behold evil, and canſt not look on iniquity.</hi> I anſwer, God doth know the ſins of men, not as if our ſins were or in <hi>ſpeculo:</hi> but ſin being a privation, that (as all o<g ref="char:EOLhyphen"/>ther privations) is known by the contrary habit or act, <hi>ut caecitas per viſum, &amp; tenebrae per lumen;</hi> ſo God knoweth ſin,
+<hi>per virtutem oppoſitam, &amp; per bonitatem a<g ref="char:EOLhyphen"/>ctus oppoſiti:</hi> and as for that text in <hi>Habbakuk,</hi> it is to be underſtood, not
+<hi>deſcientia ſimplicis intelligentiae,</hi> but <hi>de ſcientia conjuncta cum approbatione: Deus non cognoſcit peccata per ſcientiam approbationis:</hi> and of this know<g ref="char:EOLhyphen"/>ledge the text ſpeaks: That God did ſee the ſins and violences of wicked men, that text tells; and the Pro<g ref="char:EOLhyphen"/>phet under a temptation, did almoſt impute unto God an approving of them, which was contrary to his na<g ref="char:EOLhyphen"/>ture. <hi>Thou art of purer eyes then to behold evil, and canſt not look upon iniquity, wherefore lookeſt thou upon them that deal treacherouſly and holdest thy tongue?</hi>
+            </p>
+            <p>Secondly,<note place="margin">Antinomians.</note> This confutes thoſe that ſay, God ſeeth not the ſins of his juſtified children. Certainly, if <hi>all things are naked and open unto the eyes of God,</hi> then even the ſins of his own deareſt Saints and children. No, ſay ſome, by no means; their ſins are all covered. And the great text they pretend unto, is that, <hi>Numb.</hi> 23.21. <hi>He hath not ſeen iniquity in Jacob,</hi>
+               <note place="margin">Numb. 23.21.</note> 
+               <hi>nor beheld perverſneſse in <pb n="21" facs="tcp:113948:13"/>Iſrael.</hi> Now true it is, the ſins of juſtified perſons are covered: <hi>David, Paul,</hi> tell us ſo: but withall they tell us how: not <hi>ſimply</hi> and
+<hi>abſolutely,</hi> ſo as God cannot ſee them; this would argue impotency and imperfection in God; but <hi>ſecundum quid,</hi> ſo covered as God will not impute them. And for that which is their <hi>Locus palma<g ref="char:EOLhyphen"/>rius,</hi> it is never a whit to their purpoſe, <hi>He hath not ſeen iniquity in Jacob, nor beheld perverneſſe in Iſrael,</hi> ſo it is ordinarily read: but a reverend and learned Authour,<note place="margin">M.
+<hi>Gataker,</hi> in his book inti<g ref="char:EOLhyphen"/>tuled, <hi>Gods eye upon Iſrael.</hi>
+               </note> hath with much dexterity and ſtrength proved, it ſhould rather be read, He hath not ſeen, or will not ſee, or cannot endure to ſee any wrong againſt <hi>Jacob,</hi> or any grievance againſt
+<hi>Iſrael</hi> (for ſo the words <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: and
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: there uſed, doe often ſignifie <hi>trouble</hi> and
+<hi>grievance</hi>) as he hath at large proved from Scripture, and the context doth exceedingly favour this interpretation.</p>
+            <p>But take the words in the ordinary reading, they will no way favour this opinion: He hath not ſeen iniquity in <hi>Iacob,</hi> nor beheld perverſneſſe in <hi>Iſrael:</hi> of whom doth <hi>Balaam</hi> ſpeak this? only of belee<g ref="char:EOLhyphen"/>vers, of juſtified perſons? No, of all the hundred thou<g ref="char:EOLhyphen"/>ſands of <hi>Iſrael,</hi> that were now before him upon the plain; of all the mixed multitude that came up out of <hi>Egypt,</hi> which ſure were not all beleevers not juſti<g ref="char:EOLhyphen"/>fied perſons; therefore the meaning of the place is, that at the preſent there was no common ſin lying up<g ref="char:EOLhyphen"/>on the people,<note place="margin">
+                  <hi>Chaldee Para<g ref="char:EOLhyphen"/>phraſe</hi> and o<g ref="char:EOLhyphen"/>thers.</note> no Idolatry (for of that many under<g ref="char:EOLhyphen"/>ſtand this place) nor any other <hi>peccatum flagrans,</hi> that might provoke the Lord againſt them. God ſaw no wickedneſſe in the Camp, that might cauſe him to pour a curſe upon them. God ſaw none, becauſe they <pb n="22" facs="tcp:113948:14"/>had ſince their expiation and atonement committed none, if they had, God would have ſeen it; for in the 25. Chapter, when the people fell to whoredom and Idolatry, God could quickly ſee it and avenge it, and yet the perſons remained ſtill the ſame. Theſe very perſons of whom it is ſaid, Chap. 23. <hi>God ſaw no Ini<g ref="char:EOLhyphen"/>quity in them:</hi> in theſe very perſons God <hi>ſaw</hi> and <hi>a<g ref="char:EOLhyphen"/>venged iniquity</hi> within a very few daies. And certain<g ref="char:EOLhyphen"/>ly whatever miſapprehenſions of God and of ſin men may have now, the Saints of God before us have had far other apprehenſions. <hi>O God thou knoweſt my fooliſh<g ref="char:EOLhyphen"/>neſſe, and my ſins are not hid from thee,</hi> ſaith
+<hi>David,</hi> Pſal. 69.5. <hi>Thou haſt ſet our ſins before thee, even our ſecret ſins in the light of thy countenance,</hi>
+               <note place="margin">Pſal. 69.5.</note> ſaith <hi>Moſes,</hi> Pſal. 90.10.
+<hi>If we have forgotten the Name of our God,</hi>
+               <note place="margin">Pſal
+90.10.</note> 
+               <hi>or ſtretched out our hands to any falſe god, ſhall not God ſearch this out? for he knoweth the ſecrets of our hearts,</hi> ſaith the Church, <hi>Pſ.</hi> 44 20, 21. Doth God by his Spirit maintain a warre in the hearts of his children againſt their ſecret luſts, and can God doe this, and not ſee and know their luſts? Doth he help his children to ſee, and loath, and ſigh under their luſts and ſins, and can it be ima<g ref="char:EOLhyphen"/>gined, that God ſhould cauſe his children to ſee that which himſelf ſeeth not? Doe not the ſins of Gods children fall under the counſel and decree of God? are they not bounded and ordered by God, and ſhall we yet ſay, God doth not ſee them?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>3</label> But I come to a third Uſe, and that is, to <hi>repreve</hi> the great and common forgetfullneſſe of this glorious attribute of the Lord our God. Not to ſpeak of the common ſort of men, that are without God in the world, that live more like <hi>Atheiſts</hi> then <hi>Chriſtians,</hi> more <pb n="23" facs="tcp:113948:14"/>like <hi>beasts</hi> then
+<hi>men;</hi> but give me a man even among the beſt of men, that doth fully beleeve, conſider, re<g ref="char:EOLhyphen"/>member, improve this truth, <hi>All things are naked and open unto the eyes of him, with whom we have to do.</hi> Do we when we have to doe with God in <hi>prayer,</hi> remember, that <hi>all things are naked and open unto the eyes of him, with whom we have to doe?</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>? Our pre<g ref="char:EOLhyphen"/>parations, motives, affections, diſpoſitions, aims, <hi>all are naked and open unto his eyes:</hi> doe we remember this? and can we ruſh upon that duty ſo unpreparedly, ſo inconſiderately? can we be in the duty, with wander<g ref="char:EOLhyphen"/>ing, dead, ſtreightned heares? We have to doe with God in the
+<hi>hearing</hi> of his word, and doe we here re<g ref="char:EOLhyphen"/>member, that <hi>all things are naked and open unto the eyes of him, with whom we have to doe?</hi> Doe we beleeve, doe we remember, that the God with whom we have to do, knows why we hear, and how we hear? ſeeth what thoughts and what affections are ſtirring in our hearts, while we are hearing his word: and is it poſſible we ſhould hear the word with ſcorn, with ſlighting, with indignation, with diſdain? The good Lord be mer<g ref="char:EOLhyphen"/>cifull unto us, that even in thoſe things wherein we have to doe with God, we forget the eye of that God with whom we have to doe, and let our eye ſlip off from him, whoſe eye is ever upon us. What do we then in the common actions of our lives? in our buying, ſelling, converſe with men, communing with our own hearts? Where is the man, that ſo ſpeaks, and ſo thinks, and ſo lives continually, as in the eye of that God, to whom <hi>all our thoughts, words</hi> and <hi>wayes, are naked and open.</hi> Not that we are ignorant of that all-ſeeing eye of God, which the very Heathens had ſome appre<g ref="char:EOLhyphen"/>henſions <pb n="24" facs="tcp:113948:15"/>of: and therefore
+<hi>Seneca</hi> could give this rule, <hi>Sic vive cum hominibus tanquam Deus videat, ſic loquere cum Deo, tanquam homines audiant.</hi> So live with men, as if God ſaw thee, ſo ſpeak to God, as if men heard thee. There is ſomething of the notion of this from the light of nature in all our hearts, and much more by revelation from the word of God: but alas, we know and doe not: none of us all live up to the full of our knowledge in this particular, the Lord humble us and pardon us.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>4</label> In the fourth place, This truth
+<hi>that all things are na<g ref="char:EOLhyphen"/>ked and open to the eyes of him, with whom we have to do,</hi> it ſpeaks <hi>Terrour.</hi> Firſt, unto all ſinners in generall. Secondly, unto ſome ſinners more eſpecially.</p>
+            <p>Firſt, This that <hi>All things are naked and open unto the eyes of him with whom we have to do:</hi> how may it fill with terrour the heart of every ſinner, of every one that goeth on in his treſpaſſes? you know what <hi>Job</hi> ſpeaks of ſome ſinners, the murtherer, the thief, the adulte<g ref="char:EOLhyphen"/>rer, that it is to them the greateſt terrour that can be, to be diſcovered in their wickedneſſe: <hi>If a man ſee them</hi> (ſaith he) <hi>they are in the terrours of the ſhadow of death,</hi>
+               <note place="margin">Job 21.17.</note> Job 24.17. The ſame is true in proportion, of every other ſinner. What ſinner is there that hath ſuch a heart of Adamant, and forehead of braſſe, as would not be exceedingly troubled, to have all his ſins that ever he committed, or thought, intended, purpoſed to have committed, to have them all imme<g ref="char:EOLhyphen"/>diately publiſhed, and laid open before this whole congregation, it would not a little trouble him: well ſinner, this truth tells thee that, which if thou haſt not wholly put off man, will trouble thee infinite<g ref="char:EOLhyphen"/>ly <pb n="25" facs="tcp:113948:15"/>more: It tells thee that <hi>All thy wickedneſse is naked and open unto God.</hi> It tells thee that <hi>all thy thoughts,</hi> all thy proud, covetous, unclean, filthy, abominable thoughts; all the thoughts that ever thou hadſt in thy heart, they are
+<hi>All naked and open unto the eye of God.</hi> All thy oaths, blaſphemies, bitter, virulent, malicious, unchaſt, unſavory, ungodly ſpeeches, that ever fell from thy uncircumciſed lips: they <hi>are all before the eye of God.</hi> All thy wantonneſſe, luxury, impurities, fil<g ref="char:EOLhyphen"/>thineſſes not to be named; all thy cruelty, oppreſſion, injuſtice, bribery; all thy ſins how ſecretly ſoever contrived, and committed, they are <hi>all naked and open unto the eye of God.</hi> Thy midnight ſins, thy cloſet ſins, thy curtain ſins, thy boſome ſins, thy heart ſins, all the ſins thou haſt committed, and all the ſins thou wouldſt have committed, they are
+<hi>all naked and open to the eyes of God.</hi> Doſt thou beleeve this? if not, thou art an <hi>Atheiſt,</hi> if thou doſt, and yet trembleſt not, thou art — I know not what to call thee: if poſſible, thou art
+<hi>worſe</hi> then an <hi>Atheiſt,</hi> that beleeveſt all thy ſins to be this <hi>day naked and open unto the eyes of him with whom we have to do,</hi> and yet thou trembleſt not. Doeſt thou know poor man, worm, doeſt thou know with what an eye God looks upon thy ſins? It may be thou thinkeſt God beholds thy ſins as <hi>Gallio</hi> be<g ref="char:EOLhyphen"/>held the Jews abuſing and beating <hi>Soſthenes</hi> before the judgement ſeat, <hi>But Gallio cared for none of thoſe things.</hi> And thinkeſt thou ſo of God? Let me tell thee then,</p>
+            <p>Firſt, God beholds and looks upon all thy ſins, with a ſtrict, watchfull, obſerving, cenſorious eye, <hi>Prov.</hi> 15. 21.
+<hi>The wayes of man are before the eyes of the Lord,</hi>
+               <note place="margin">Prov. 15.21.</note> 
+               <hi>and he pondereth all his goings.</hi> God doth ſo ſtrictly and ex<g ref="char:EOLhyphen"/>actly <pb n="26" facs="tcp:113948:16"/>eye thy ſins, as that he knows not only the <hi>num<g ref="char:EOLhyphen"/>ber</hi> of them, but the <hi>meaſure, proportion, weight,</hi> of every one of them:<note place="margin">1 Sam.
+2.3.</note> 1 <hi>Sam.</hi> 2.3. <hi>God is a God of knowledge, and by him actions are weighed.</hi> God weighes and obſerves, how much wilfullneſſe, preſumption, contempt of God is in every ſin, how heavy and hainous thy ſins are. That eye of God unto which all thy ſins are na<g ref="char:EOLhyphen"/>ked and open, it is a ſtrict, obſerving, pondering eye.</p>
+            <p>Secondly, It is a pure, holy, ſevere eye, an eye fla<g ref="char:EOLhyphen"/>ming with indignation againſt every ſin.<note place="margin">Habab. 1.13.</note>
+               <hi>Hab.</hi> 1.13. <hi>Thou art of purer eyes then to behold evil, and canst not look upon iniquity.</hi> Indeed, if God ſaw thy ſins with ſuch an eye as men doe, it need not much trouble thee. Men can ſee thy ſins and wink at them; ſee thy ſins, and like thee never the worſe for them. But O couldeſt thou ſee that <hi>angry, flaming, revengefull</hi> eye wherewith God ſeeth all thy ſins, it would make thy heart even die within thee. I have read of <hi>Marius</hi> and <hi>Attilas,</hi> and ſome others, that they have had ſuch fiery ſparkling eyes, as that when they have been ſet upon by enemies, the very ſparks of fire darting out of their eyes, hath ſtruck ſuch a trembling into the hearts of their aſſai<g ref="char:EOLhyphen"/>lants, as hath made them let fall their weapons. O that thou couldeſt ſee, with what an eye God looks upon thy ſins, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, God hath a revenging eye: one aſpect of this eye of God, is able to make the whole earth to tremble,
+<hi>Pſal.</hi> 104.32. <hi>He looketh on the earth and it tremileth,</hi>
+               <note place="margin">Pſal. 104.32.</note> and ſhall this eye of God be upon thee and all thy wayes, and yet thou not tremble?</p>
+            <p>Thirdly, Conſider, this God, unto whoſe <hi>pure, pon<g ref="char:EOLhyphen"/>dering, ſevere, revengefull</hi> eye, <hi>all thy ſins are naked and
+<pb n="27" facs="tcp:113948:16"/>open,</hi> is the God which will one day judge thee for theſe ſins of thine, which his own eye hath ſeen. <hi>For God will bring every work into judgement, and every ſe<g ref="char:EOLhyphen"/>cret thing, whether it be good or evil,</hi>
+               <note place="margin">Eccleſ. 12.14.</note> Eccleſ. 12.14.<note n="*" place="margin">Ipſe autem Teſtu &amp; Iu<g ref="char:EOLhyphen"/>dex eſt, quem nulla peccatrix conſcientia ef<g ref="char:EOLhyphen"/>fugere poterit; Omnia enim noda &amp; aperta ſunt oculis ejus. Nunquid Do<g ref="char:EOLhyphen"/>minus judicans, quaefiturus eſt teſtes per quos diſcat quis ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s? unde poteſt fal<g ref="char:EOLhyphen"/>li quis ſis, qui noverat quis eſ<g ref="char:EOLhyphen"/>ſes ſuturus? Te interrogat non atrum de te: interrogat au<g ref="char:EOLhyphen"/>tem te, non ut diſcat à te, ſed ut conſundat te.</note> 
+               <hi>Ipſe autem &amp; Judex erit &amp; Teſtis,</hi> &amp;c. And he himſelf will be both the <hi>Judge</hi> and the
+<hi>witneſse,</hi> whom no guilty conſcience can eſcape, for all things are naked and open unto his eyes, ſaith <hi>Auguſtine:</hi> and again, will God when he comes to judgement, call in witneſſes to be informed by them what manner of perſon thou art? how can he be miſtaken in judging what a one thou art, who knew before thou wert, what an one thou wouldeſt be? God will queſtion thee, and not others concerning thee, and God will queſtion thee, not to get information from thee, but to put confuſion upon thee. And, O my brethren, think, I beſeech you, how great confuſion will fall upon every ſinner in that day, when the righteous and holy God, ſhall from his own ſight and knowledge, convince the drunkard of his drunkenneſſe, the adulterer of his uncleanneſſe, the perverter of Juſtice of his bribes, and every other ſin<g ref="char:EOLhyphen"/>ner, of their ſeverall, ſecret, perſonall ſins: when God ſhall ſay unto them, as <hi>Eliſha</hi> did to <hi>Gehezi, Went not my heart with thee, when the man turned back from his chariot to meet thee?</hi> So when God ſhall ſay to thee in that day, Went not my heart with thee, when thou and thy companions in wickedneſſe met in ſuch and ſuch a place? when you plotted, acted ſuch and ſuch villanies, did not I ſtand by and look on? O would proud and ſinfull man think of <hi>this eye,</hi> and <hi>this day,</hi> how would it make him come down, ſit in the duſt, and cloath himſelf with trembling. <pb n="28" facs="tcp:113948:17"/>In<note n="*" place="margin">
+                  <p>In illo magno &amp; metuendo diſtrict<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> judi<g ref="char:EOLhyphen"/>cio, nudi miſeri &amp; contriſtati contriti humi<g ref="char:EOLhyphen"/>liati excervi<g ref="char:EOLhyphen"/>cati cum temere &amp; metu,
+<hi>&amp;c.</hi> aſſiſtemus. Nobis ade<g ref="char:EOLhyphen"/>runt Angeli &amp; Throni, &amp; Libri de Acti<g ref="char:EOLhyphen"/>bus noſtris ape<g ref="char:EOLhyphen"/>rientus, Iudi<g ref="char:EOLhyphen"/>cium mirum au<g ref="char:EOLhyphen"/>dire trenendum autem videre omnem homi<g ref="char:EOLhyphen"/>nem ſubito ra<g ref="char:EOLhyphen"/>tionem redden<g ref="char:EOLhyphen"/>tem de, verbis, de actibus, de cogitationibus per diem &amp; noctem quemad. modum ipſe pec<g ref="char:EOLhyphen"/>cavit. <hi>Auguſt.</hi> Serm. <hi>8<hi rend="sup">o</hi>.</hi> de ad<g ref="char:EOLhyphen"/>ventis ad-judi<g ref="char:EOLhyphen"/>cium.</p>
+                  <p>Ecce in quo periculo inceſſanter confiſto niſi quia non ſemper cogito<g ref="char:punc">▪</g> Eò autem miſerior quò obliviſci poſſum. Semper enim videt me Dens &amp; peccata mea ſemper mihi intimatur diſtricta ſententia, ſic ſum poſitus cum vigilo, cum dormio; ſic cum rideo cum laetor; ſic cum ſuperbio cum iraſcor; ſic cum contriſtor cum delicia<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> amplect or deni<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſic ſum ſemper &amp; ubi<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> 
+                     <hi>Auguſt.</hi> Medit, cap. <hi>22,</hi>
+                  </p>
+               </note> that great, dreadfull and ſtrict judgement, we ſhall ſtand naked, ſorrowfull, trembling (ſaith
+<hi>Augustine</hi>) the Angels and Thrones of Heaven ſhall be about us, the books and records of our lives ſhall be opened, every man preſently, ſhall give an account of himſelf, of all his thoughts, words, actions, of all the ſins that ever he hath committed, by night or by day: This is a judgement (ſaith he) wonderfull to ſee, and dreadfull to hear: The thoughts and remembrance of it, made ſuch deep impreſſions upon the heart of this holy man, that in another place he ſaith; Behold in what danger I ſtand continually, though I do not continually think of it; and the more wretched I, that I can forget it: for <hi>God alwayes ſeeth me and all my ſins,</hi> a ſtrict ſentence al<g ref="char:EOLhyphen"/>waies awaits me; in this condition I am, when I wake, and when I ſleep, when I laugh, and when I am ſad; when I am proud, and when I am paſſionate; <hi>ſic ſum ſemper &amp; ubi<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>,</hi> thus I am alwaies and everywhere. O could ſinners when they are in their pangs of
+<hi>pride,</hi> and <hi>paſsion,</hi> and <hi>mirth,</hi> and
+<hi>madneſſe,</hi> with <hi>Augustine,</hi> con<g ref="char:EOLhyphen"/>ſider themſelves as ſet under the eye of that God, whoſe ſevere <hi>ſentence</hi> they muſtabide, it would quell and awe them.</p>
+            <p>Secondly, This truth, that <hi>all things are naked and o<g ref="char:EOLhyphen"/>pen unto the eyes of him with whom we have to do:</hi> It ſpeaks <hi>terrour</hi> as to all <hi>ſinners</hi> in generall, ſo in particu<g ref="char:EOLhyphen"/>lar unto all
+<hi>hypocrites,</hi> and <hi>diſſemblers,</hi> that pretend to
+<pb n="29" facs="tcp:113948:17"/>be much for <hi>God,</hi> and the <hi>Goſpel,</hi> and
+<hi>Religion,</hi> and the <hi>publike good,</hi> and all this while, they are but <hi>pretenders</hi> to theſe things, and make <hi>God,</hi> and the
+<hi>Goſpel,</hi> and <hi>Reli<g ref="char:EOLhyphen"/>gion,</hi> and the <hi>publike good,</hi> but ſerve their luſts and ends; but be as ſtirrups to get up into their ſaddle, but as ſteps whereby to mount unto their heights: as <hi>Jehu</hi> made his zeal againſt idolatry, his breaking down the houſe, and aboliſhing the worſhip of Baal, a pair of ſtairs to get up into
+<hi>Ahabs</hi> throne; as the <hi>Phariſees</hi> made their ſtrictneſſe in Religion, their great devotion and long prayers, but an artifice to inſinuate themſelves in<g ref="char:EOLhyphen"/>to the peoples eſteem, and to devoure widows hou<g ref="char:EOLhyphen"/>ſes. Well, who ever thou beeſt, that art guilty in this kinde, know it (and know it to thy terrour,) there is no ſinner upon earth, whom God hates more then he hates thee: for there is no ſin that is more directly and formally <hi>contrary</hi> to the <hi>nature</hi> of <hi>God</hi> who is
+<hi>truth</hi> it ſelf and <hi>cannot lye,</hi> then this ſin of
+<hi>diſſembling</hi> is. And there is no ſinne that doth more either
+<hi>deny</hi> or <hi>dare</hi> this glorious attribute of <hi>Gods omniſcience,</hi> then this ſinne doth. Doſt thou think thou canſt as eaſily blear and delude the <hi>eyes of God,</hi> as thou canſt blinde, and elude the <hi>eyes of men?</hi> canſt thou with all thy <hi>colours, ſhews, pretences, diſguiſes,</hi> blinde the eyes of God? All things are naked and open unto his eye, God ſeeth thee as thou art, and <hi>not</hi> as thou wouldeſt <hi>ſeem. Jero<g ref="char:EOLhyphen"/>boams</hi> wife thought to have put a cheat upon
+<hi>Ahaziah</hi> the Prophet, becauſe <hi>his eyes were dim with age, and he could not ſee;</hi> therefore ſhe diſguiſeth her ſelf, and fain<g ref="char:EOLhyphen"/>eth her ſelf to be another woman. But God could ſee, though his Prophet could not, and <hi>God</hi> could tell his Prophet who ſhe was, for all her diſguiſe, and the <pb n="30" facs="tcp:113948:18"/>Prophet calls her by her name,
+<hi>come in thou wife of Je<g ref="char:EOLhyphen"/>roboam,</hi>
+               <note place="margin">1 King. 14.5.</note>
+               <hi>wherefore faineſt thou thy ſelf to be another woman.</hi> Men may ſo
+<hi>diſguiſe</hi> themſelves, as they may put a cheat upon Gods people (yea and <hi>Prophets</hi> too,) for their ſight is but dim. They may ſeem Saints in the eyes of the moſt judicious men, and paſſe with them for others then they are. But <hi>God ſeeth thee</hi> as thou art, and God will call thee by thy name: <hi>God will ſay</hi> unto thee, come in thou
+<hi>hypocrite,</hi> thou <hi>pretender,</hi> thou <hi>men<g ref="char:EOLhyphen"/>pleaſer,</hi> thou
+<hi>ſelf-ſeeker, wherefore faineſt thou thy ſelf to be another?</hi> I ſay unto thee in the name of God as <hi>Paul</hi> did to <hi>Ananias; God ſhall ſmite thee thou whited wall,</hi> thou <hi>painted ſepulcher.</hi> God will waſh of all thy <hi>paint</hi> and <hi>varniſh,</hi> all thy
+<hi>ſmoothneſſe</hi> and thy <hi>colours</hi> from thee, God will diſcover thy filthineſſe and rot<g ref="char:EOLhyphen"/>tenneſſe even unto men, to the loathing of thy perſon. You ſhall ſeldome know a groſſe
+<hi>hypocrite</hi> goe to the grave undiſcovered.</p>
+            <p>There is yet <hi>another ſort</hi> of <hi>ſinners,</hi> to whom this <hi>truth</hi> is matter of <hi>trembling.</hi> And they are ſuch as drive a <hi>trade</hi> of <hi>projects</hi> and <hi>deſignes.</hi> And we live in an age thats full of them, never any more. I confeſſe
+<hi>wiſedome is good,</hi> it is Gods gift: and <hi>counſel</hi> is neceſſa<g ref="char:EOLhyphen"/>ry. But look to it, that your <hi>deſignes</hi> be <hi>good,</hi> that your conſultations be for God, and for his glory. But if a<g ref="char:EOLhyphen"/>ny of you be found in a plot or conſultation with thoſe of whom the holy Ghoſt ſpeaks,<note place="margin">Pſal. 2.</note> Pſal. 2. <hi>They take counſel againſt the Lord, and againſt his Chriſt.</hi> If you drive a
+<hi>deſigne</hi> any of you, to <hi>hinder</hi> what God would have
+<hi>promoted,</hi> or to <hi>promote</hi> what <hi>God</hi> would have
+<hi>ſup<g ref="char:EOLhyphen"/>preſſed,</hi> or <hi>divide</hi> what <hi>God would have united,</hi> or the like; <hi>God who ſeeth</hi> and knoweth what are the deſignes <pb n="31" facs="tcp:113948:18"/>that are in all <hi>mens hearts,</hi> from heaven will blaſt them. <hi>God will cramp</hi> you, that <hi>your hands ſhall not be able to perform your work.</hi> There is a text very worth our looking on, Iſa. 29.15, 16.<note place="margin">Iſa. 29.15, 16.</note> 
+               <hi>Wo unto them that dig deep to hide their counſel from the Lord, and their work is in the dark, and they ſay who ſeeth us, and who knoweth us? Surely your turning of things upſide down, ſhall be as the potters clay,</hi> &amp;c. Where you have firſt the men deſeri<g ref="char:EOLhyphen"/>bed, ſecondly their miſery. The men are deſcribed firſt from the cloſeneſſe of their plots, <hi>they dig deep,</hi> and their <hi>work is in the dark,</hi> and they make account no
+<hi>man knows</hi> what they are plotting, and <hi>they ſay who ſeeth us and who knoweth us?</hi> Nay they do the beſt they can to hide their deſignes, not only <hi>from men,</hi> but <hi>from God, they dig deep to hide their counſel from the Lord.</hi> Second<g ref="char:EOLhyphen"/>ly, they are deſcribed from their induſtry to compaſſe their <hi>deſignes: omnem movent lapidem,</hi> they try all waies, they <hi>turn things upſide down.</hi> If their plot will not take one way, they will try a <hi>ſecond,</hi> if not that way neither, they'll try a <hi>third,</hi> a <hi>fourth,</hi> and never leave turning of things every way, <hi>upſide down,</hi> to bring a<g ref="char:EOLhyphen"/>bout their deſignes. Theſe are the men here ſpoken of. The miſery and wo here threatned againſt them is, that they ſhall looſe all their labour, the deſignes they travell ſo much with; they ſhall be as an abortive birth, <hi>Their turning of things upſide down ſhall be as the potters clay.</hi> That look as the <hi>potters clay,</hi> when the <hi>potter</hi> hath ſpent time and pains in <hi>tempering</hi> and <hi>forming</hi> it upon the wheel, and now the veſſel is even almoſt brought to its ſhape, a man that ſtands by, may with the leaſt puſh put it clean <hi>out of ſhape</hi> and marre all that he hath been forming upon the wheel. So (ſaith God) ſhall
+<pb n="32" facs="tcp:113948:19"/>all <hi>your plots,</hi> and all your <hi>turning of things upſide down be.</hi> When you think you have brought them even to maturity, to perfection, when you look upon your bu<g ref="char:EOLhyphen"/>ſineſſe as if it were almoſt done, God that ſtands by and looks on, with one touch will daſh and marre all. This is the <hi>wo</hi> that the Lord here threatens againſt them. And there can be <hi>no greater woe upon earth,</hi> to a meer Polititian, then to be baffel'd and fool'd in his de<g ref="char:EOLhyphen"/>ſignes; when God deals thus with them, he pierceth them in the right vein. God gave <hi>Achitophel,</hi> that great Oracle of his times, but one ſuch foyle as this, and his ſpirit was not able to bear it, he went home and hanged himſelf.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>5</label> In the fifth place: This truth, that <hi>All things are na<g ref="char:EOLhyphen"/>ked and open unto the eyes of him, with whom we have to doe.</hi> How ſhould it <hi>abaſe</hi> and <hi>humble</hi> every one of us, in the ſight of that <hi>God</hi> before whom we ſtand, and <hi>with whom we have to doe this day?</hi> That <hi>God</hi> before whom we ſtand this day knows <hi>all our ſins,</hi> and knows <hi>all our hearts.</hi> The
+<hi>ſinnes</hi> that we <hi>know not,</hi> having commit<g ref="char:EOLhyphen"/>ted them through
+<hi>ignorance,</hi> he <hi>knows</hi> them: they have eſcaped <hi>our eye,</hi> but they cannot eſcape <hi>the all-ſeeing eye of God.</hi> O God thou <hi>knoweſt my fooliſhneſse, Pſal.</hi> 69.5. The ſinnes that we have committed and forgotten, God <hi>knows</hi> them, they are ſtill
+<hi>preſent</hi> unto him, and he is able to <hi>preſent</hi> them unto us.
+<hi>Pſal.</hi> 50.21. I will reprove thee and ſet thy ſins in order before thee. God is able, exactly to ſet before us <hi>all our ſins,</hi> from the firſt <hi>to the laſt,</hi> in the ſame order wherein we committed them, for he fully and exactly knows them all. What we did in our
+<hi>infancy,</hi> what in our <hi>childehood,</hi> what in <hi>our youth,</hi> what we <hi>thought,</hi> or <hi>ſpake,</hi> or <hi>did</hi> at
+<pb n="33" facs="tcp:113948:19"/>ſuch a <hi>time,</hi> and what at <hi>ſuch a time,</hi> and what in <hi>ſuch a place,</hi> and what in <hi>ſuch a company,</hi> what in the <hi>morning,</hi> and what at <hi>noone,</hi> and what in the
+<hi>evening,</hi> and what at <hi>midnight:</hi> what you did <hi>laſt night,</hi> and what this <hi>morning</hi> before you came together, and what you <hi>have been,</hi> and what you <hi>have done</hi> here, what
+<hi>preparations</hi> you made for theſe duties, what <hi>thoughts and affecti<g ref="char:EOLhyphen"/>ons</hi> you have had in theſe duties. God knows what <hi>roaving thoughts,</hi> what <hi>vile thoughts</hi> have been in any of your hearts, how
+<hi>dead</hi> and <hi>unaffected your hearts</hi> have been in
+<hi>confeſsing, praying, hearing.</hi> Now how ſhould this humble us, and fill our faces with ſhame in his preſence! Were all our ſins, and ſinfull thoughts written this day with a <hi>ſun beam</hi> (as
+<hi>Tertullians</hi> phraſe is,) that every man could read, and know, what we have <hi>done,</hi> and <hi>been,</hi> and <hi>are,</hi> how ſhould wee bluſh in the preſence of men? and ſhall we not much more in the preſence of God that knows all things? O let us in humble acknowledgement of our former iniqui<g ref="char:EOLhyphen"/>ties, and of this daies ſins, every one of us ſay with
+<hi>Ezra, O my God I am aſhamed and confounded, and I bluſh to lift up my face unto thee, O my God,</hi> Ezra 9.6. and a<g ref="char:EOLhyphen"/>gain, verſ. 15. <hi>Behold we are before thee in our treſpaſses, for we cannot ſtand before thee becauſe of this.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>6</label> In the ſixth place, This truth, that <hi>all things are na<g ref="char:EOLhyphen"/>ked and open unto the eyes of him, with whom we have to do,</hi> may ſerve, to exhortall of us to ſincerity, and ſingle<g ref="char:EOLhyphen"/>neſſe of heart; to ſtudy to approve our ſelves unto God in all our waies: This is that <hi>unum neceſſarium,</hi> which though neglected and diſeſteemed by moſt men, will in the iſſue be found moſt comfortable and advantagious, even ſingleneſſe and plainneſſe of heart. <pb n="36" facs="tcp:113948:20"/> 
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap> 
+               <pb n="37" facs="tcp:113948:20"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap> 
+               <pb n="34" facs="tcp:113948:21"/>You know what is ſaid of
+<hi>Jacob</hi> and <hi>Eſau<g ref="char:punc">▪</g>
+               </hi> Gen. 25.27. <hi>Eſau was a cunning hunter,</hi>
+               <note place="margin">Gen. 25.27.</note> 
+               <hi>but Jacob was a plain man. Eſau,</hi> he had his game and his veniſon, but <hi>Jacob</hi> the plain man got the bleſſing. The world is full of cun<g ref="char:EOLhyphen"/>ning hunters, that may get the veniſon, the fat mor<g ref="char:EOLhyphen"/>ſels (and much good may it do them,) but, beleeve it, the plain-heatted <hi>Jacobs</hi> will go away with the bleſ<g ref="char:EOLhyphen"/>ſing; they will at length prevail with God, and pre<g ref="char:EOLhyphen"/>vail with men. Plainheartedneſſe, will prevail more then ten thouſand policies and cunning tricks. Now to eſtabliſh every one in this plainheartedneſſe, I know no more powerfull and effectuall means then the fre<g ref="char:EOLhyphen"/>quent remembrance of the <hi>all ſeeing eye</hi> of <hi>God</hi> upon us, that ſearcheth into all the dark and crooked windings of every one of our hearts.</p>
+            <p>And therefore thats a ſecond thing, I would from this truth exhort unto, to <hi>eye</hi> this <hi>all ſeeing eye</hi> of <hi>God,</hi> to labour to get hearts alwaies to <hi>ſet</hi> and <hi>obſerve</hi> him, who alwaies <hi>ſees,</hi> and <hi>obſerves</hi> us: that we may ſay with
+<hi>David,</hi> Pſal. 16. <hi>I have ſet the Lord alwaies before me,</hi> and, <hi>Mine eyes are euer towards the Lord,</hi> Pſal. 25. and there are eſpecially two ſorts of men to whom I would commend this duty.</p>
+            <p>Firſt, To <hi>Kings, Princes, Rulers, Judges, Magistrates:</hi> They are <hi>Gods deputies, vice-gerents,</hi> for them to remem<g ref="char:EOLhyphen"/>ber, hour
+<hi>that God</hi> who hath committed power and truſt unto them above other men, hath his eye conti<g ref="char:EOLhyphen"/>nually upon them, ſtrictly obſerving how they diſ<g ref="char:EOLhyphen"/>charge that truſt, and manage that power. O how care<g ref="char:EOLhyphen"/>full, how exact would it make them? how would it make them impregnable in all
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es, flatteris, cor<g ref="char:EOLhyphen"/>ruption, entreaties of friends, reſpects of blood or bre<g ref="char:EOLhyphen"/>thren? <pb n="35" facs="tcp:113948:21"/>how would it make them adminiſter juſtice by a tiue and even ballance, without reſpect of perſons? therefore that good King <hi>Jehoſaphat,</hi> when he ſet Jud<g ref="char:EOLhyphen"/>ges over <hi>Judah,</hi> he gives them this charge, a <hi>Chron.</hi> 19.6.
+<hi>Take heed what you doe, for you judge not for men, but for the Lord, who is with you in judgement</hi> (not only to aſſiſt you, but to overſee you,) <hi>wherefore now let the fear of God be upon you, take heed and doe it, for there is no iniquity with the Lord, nor reſpect of perſons, nor taking of gifts.</hi> So <hi>David,</hi> Pſal. 82.1. <hi>God standeth in the Congregation of the mighty, he judgeth among the Gods.</hi> Right Ho<g ref="char:EOLhyphen"/>nourable and beloved, whom God hath called to fit in <hi>Parliament,</hi> and hath devolved upon you the <hi>higheſt power</hi> and <hi>judicature,</hi> that this Kingdom knows: you have often heard, that the <hi>eyes</hi> of all the people of <hi>this Kingdom</hi> are upon you; that the <hi>eyes</hi> of theſe
+<hi>three Kingdoms</hi> are upon you; that the <hi>eyes</hi> of <hi>all</hi> the <hi>Chur<g ref="char:EOLhyphen"/>ches</hi> of <hi>Christ</hi> are upon you, and therefore you had need <hi>take heed</hi> what you doe; and in truth. ſo you had, even upon that conſideration. But let me now put you in remembrance, of that which is more then all this, <hi>the eyes of God are upon you.</hi> And O let (in the Name and fear of God, I beſeech you) let theſe words link deep<g ref="char:EOLhyphen"/>ly down into your hearts, <hi>the eyes of God are upon you<g ref="char:punc">▪</g>
+               </hi> if you doe not proſecute your <hi>vows, Covenants, engage<g ref="char:EOLhyphen"/>ments</hi> to God and men, with your utmoſt ſtrength and vigour, <hi>ſhall not God ſearch it out?</hi> if among you there be any found that are <hi>ſecret enemies</hi> to the power of godlineſſe, <hi>ſecret</hi> encouragers of any wickedneſſe, either in <hi>opinion</hi> of <hi>practiſe</hi> perverters or fore-flowers of ju<g ref="char:EOLhyphen"/>ſtice, accepters of perſons in judgement, <hi>ſhall not God ſearch it out? for he knoweth the ſecrets of the hearts,</hi> Pſal.
+<pb n="36" facs="tcp:113948:22"/>44.21. O that you would think of this every time you come up into your Houſe, every time any of you ſtand up to ſpeak in that
+<hi>Honourable Aſſembly;</hi> O that you would remember, that <hi>all things are naked and open unto the eyes of God.</hi> Other <hi>Senates</hi> and State aſſemblies, have had Mottoes written over the doors of their Se<g ref="char:EOLhyphen"/>nate-houſes and Councel-Chambers; over the Se<g ref="char:EOLhyphen"/>nate-houſe in
+<hi>Rome</hi> was written, <hi>Nequid Reſpublica de<g ref="char:EOLhyphen"/>trimenti capiat:</hi> O that over the place where the <hi>Com<g ref="char:EOLhyphen"/>mons of England</hi> ſit, might be written, <hi>All things are na<g ref="char:EOLhyphen"/>ked and open unto the eyes of him, with whom we have to doe.</hi> O that it might be written upon the walls of the Chambers where your <hi>Committees</hi> ſit. But what doe I ſpeak of writting it upon <hi>walls</hi> and <hi>doors?</hi> O that <hi>God</hi> would write it by his Spirit, in every one of your hearts, that where ever you are, or what ever you are doing, you might ſtill have this in your actuall remem<g ref="char:EOLhyphen"/>brance, that
+<hi>all things are naked and open unto the eyes of him with whom we have to doe.</hi>
+            </p>
+            <p>Another ſort of men to whom I would commend this conſideration, are <hi>Miniſters, Preachers of the word:</hi> They alſo are men immediatly imployed by God, they are his <hi>Embaſſadours:</hi> Now, could <hi>we,</hi> did <hi>we</hi> continu<g ref="char:EOLhyphen"/>ally remember the <hi>eye</hi> of <hi>God</hi> continually upon us, how diligent, how abundant would it make us in the work of the Lord! how faithfull, how couragious, how un<g ref="char:EOLhyphen"/>byaſſed, how above the frownes and ſmiles of men! This was it made <hi>Paul</hi> ſo faithfull, and uncorrupt in the work of his Miniſtry,<note place="margin">2 Cor. 2.17.</note> 2 <hi>Cor.</hi> 2.17. <hi>For we are not as ma<g ref="char:EOLhyphen"/>ny that corrupt the word of God; but as of ſincerity, as of God, as in the ſight of God, ſo ſpeak we in Chriſt.</hi> That which made <hi>Paul</hi> handle the word ſo <hi>uncorruptly,</hi> and <pb n="37" facs="tcp:113948:22"/>with ſuch ſincerity, was this, he ſpake it <hi>as in the ſight of God.</hi> I have heard a ſtory of that holy Martyr of Chriſt Jeſus, M. <hi>Latymer,</hi> that having in a Sermon at Court in <hi>Henry the eight's</hi> dayes much diſpleaſed the King, he was commanded next Sabbath after to preach again, and make his recantation: according to appoint<g ref="char:EOLhyphen"/>ment he comes to preach, and prefaceth to his Sermon with a kinde of <hi>Dialogiſme</hi> in this manner.
+<hi>Hugh Lati<g ref="char:EOLhyphen"/>mer,</hi> Doeſt know to whom thou art this day to ſpeak? to the <hi>high</hi> and <hi>mighty Monarch,</hi> &amp;c. that can take away thy life if thou offend, therefore take heed how thou ſpeak a word that may diſpleaſe his Majeſty, <hi>&amp;c.</hi> But (as recalling himſelf)
+<hi>Hugh, Hugh</hi> (ſaith he,) doeſt know from whom thou comeſt, and upon whoſe meſ<g ref="char:EOLhyphen"/>ſage thou art ſent? even the <hi>great and mighty God,</hi> that is <hi>able to caſt both body and ſoul into hell fire for ever,</hi> and therefore take heed to thy ſelf, that thou deliver thy meſſage faithfully, <hi>&amp;c.</hi> and ſo comes to his Sermon; and what he had delivered the day before, confirmes and urgeth with more vehemency then ever. Sermon being done, the Court was full of expectation, what would be the iſſue of the matter. After dinner, the <hi>King</hi> calls for
+<hi>Latymer,</hi> and with a ſtern countenance, asked him how he durſt be ſo bold as to preach after that manner? He anſwered; That duty to God and to his Prince had enforced him to it, and now he had diſcharged his conſcience and duty in what he had ſpoken; his life was in his Majeſties hand. Upon this the King roſe from his ſeat, and taking M. <hi>Latymer</hi> off from his knees, embraced him in his armes ſaying, he bleſſed God,
+<hi>that he had a man in his Kingdom, that durſt deal ſo plainly and faithfully with him.</hi> Had never <hi>King</hi> in <pb n="38" facs="tcp:113948:23"/>
+               <hi>England</hi> ſince his time, wanted ſuch a <hi>faithfull, plain-dealing Chaplain,</hi> to preach to him, it might have been better with
+<hi>England</hi> then it is at preſent.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>7</label> Seventhly, This truth, That <hi>all things are naked and open unto the eyes of him, with whom we have to doe;</hi> it may ſerve to admoniſh us, to take heed of <hi>ſin,</hi> every
+<hi>ſin,</hi> how <hi>ſecret</hi> and <hi>ſmall</hi> ſoever: for there's no <hi>ſin</hi> ſo <hi>ſmall,</hi> that <hi>God will not,</hi> nor <hi>ſo ſecret,</hi> that <hi>God cannot</hi> take no<g ref="char:EOLhyphen"/>tice of it; but
+<hi>all things are naked and open unto the eyes of him, with whom we have to doe.</hi> It was the preſcript of <hi>Epicurus</hi> the Philoſopher to his followers, <hi>ut ſemper cogitarent vitae ſuae testem aliquem adeſſe,</hi> ever to think that ſome or other ſtood by, as witneſſes of every paſ<g ref="char:EOLhyphen"/>ſage of their converſation; and
+<hi>Seneca's</hi> counſel to <hi>Lu<g ref="char:EOLhyphen"/>cilius,</hi> ever to think himſelf in the preſence of <hi>Cato,</hi> or <hi>Scipio,</hi> or <hi>Laelius,</hi> or ſome other man eminently vertu<g ref="char:EOLhyphen"/>ous: that by imagining himſelf under the aſpect of ſo grave and auſtere an eye, he might be kept from
+<hi>abſur<g ref="char:EOLhyphen"/>dities</hi> and <hi>indecorums:</hi> And ſure there is much in the <hi>eye</hi> of <hi>man,</hi> to repreſſe and reſtrain from ſin.
+<hi>Poteſt miles co<g ref="char:EOLhyphen"/>ram Rege ſuo non iraſci, ob ſolam Regiae dignitatis eminen<g ref="char:EOLhyphen"/>tiam,</hi> ſaith <hi>Baſil:</hi> A ſouldier (though wrath and revenge ſeem to be the proper and eſſentiall qualities of a ſoul<g ref="char:EOLhyphen"/>dier) can bridle his rage, and put up an injury in the preſence of his King: ſuch majeſty is there in the eye of man; yea there is a kinde of authority and awe in the eye of a childe: <hi>Maxima debetur pueris reveren<g ref="char:EOLhyphen"/>tia, ſi quid turpe paras,</hi> ſaith <hi>Invenal:</hi> But O this <hi>eye of God,</hi> this
+<hi>pure, piercing, flaming, glorious eye of God;</hi> could we remember that, and ſet our ſelves under that, O what an awe would it lay upon our hearts! Sure I can ſcarce think, there is any heart under heaven ſo wicked,
+<pb n="39" facs="tcp:113948:23"/>but would be awed by that eye of God. You have heard of
+<hi>Paphnutius,</hi> and <hi>Ephrem Syrus,</hi> that converted two notorious and impudent ſtrumpets, onely by preſ<g ref="char:EOLhyphen"/>ſing upon them this conſideration of the eye of God. Ah brethren, it is (as <hi>Paul</hi> ſaith) <hi>it is a ſhame to ſpeak, what things are done of ſome in ſecret.</hi> Do not many men do that in ſecret, which if their own father, wife, child, or any other, ſtood by and lookt on, they would not dare to doe? well, God hath ſtood by all the while, and lookt on thee; he ſaw thy ſecret adultery; he knows when, and where, and with whom, and with how many thou haſt committed folly: <hi>his eye</hi> ſaw thee, when thou thoughteſt <hi>no eye</hi> ſaw thee:<note place="margin">Pſal. 130. Jerem. 23,
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4.</note> darknes is no darknes unto him. If thou canſt finde a time when, or a place where <hi>Gods eye</hi> is not upon thee, cannot reach thee, there go, and ſin boldly, ſin without fear. But <hi>whither canſt thou flee from Gods preſence, whither canst thou go from his ſight?</hi> Read that <hi>Pſal.</hi> 139. <hi>Can any hide himſelf in ſecret places, ſaith the Lord, that I ſhall not ſee him? do not I fill heaven and earth,</hi> Jer. 23.24? A man (<note n="*" place="margin">Falens facere aliquid mali de publico recipis te in domum tu<g ref="char:EOLhyphen"/>am ubi nemo i<g ref="char:EOLhyphen"/>nimicorum te videat, de locis domus tuae promptis &amp; in ſaciem conſtitu<g ref="char:EOLhyphen"/>tis removes te in cubiculum, times &amp; in cu<g ref="char:EOLhyphen"/>biculo &amp; aliun<g ref="char:EOLhyphen"/>de conſcientiam ſecedis in cor tuum &amp; the meditaris: ille in corde tuo ime<g ref="char:EOLhyphen"/>rior eſt. Quo<g ref="char:EOLhyphen"/>cun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ergo fuge<g ref="char:EOLhyphen"/>ris ibi eſt: quan<g ref="char:EOLhyphen"/>do &amp; teipſo in<g ref="char:EOLhyphen"/>terior eſt, <hi>&amp;c. Auguſt.</hi> in <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſal 74.</hi>
+               </note> ſaith
+<hi>Auguſtine</hi>) when he hath a minde to ſome ſin, gets him out of the pub<g ref="char:EOLhyphen"/>like, betakes him to his houſe, recites himſelf from that part of his houſe which is moſt expoſed to view, into his cloſet or bed-chamber; and yet being afraid to be diſcovered there, he retreats into his heart, and there pleaſeth himſelf in <hi>contemplative wickedneſſe; Ille in cor<g ref="char:EOLhyphen"/>de tuo interior eſt,</hi> God is within thy heart, and there<g ref="char:EOLhyphen"/>fore whitherſoever thou fleeſt, God is there, for he is more within thee then thy ſelf. Poor ſoul, there can<g ref="char:EOLhyphen"/>not riſe ſo much as one proud, unclean, luſtfull, cove<g ref="char:EOLhyphen"/>tous, revengefull, vain thought in thy heart, but God preſently ſeeth it, much leſſe can any of thy actuall
+<pb n="40" facs="tcp:113948:24"/>ſins be hid from his <hi>all-ſeeing eye:</hi> O how ſhould this make us ſtand in awe, and not ſin! You know what that great Monarch <hi>Ahaſhuerus</hi> ſaid concerning <hi>Haman,</hi> when coming in, he found him caſt upon the Queens bed on which ſhe ſate;<note place="margin">Eſth. 7.8.</note> 
+               <hi>What</hi> (ſaith he) <hi>will he force the Queen, before me, in the houſe?</hi> There was the killing
+<hi>em<g ref="char:EOLhyphen"/>phaſis</hi> in theſe words, <hi>before me;</hi> will he force the Queen <hi>before me?</hi> What, will he dare to commit ſuch a villany, and I ſtand and look on! O brethren, this is the killing <hi>aggravation</hi> of every ſin, it is done <hi>before the face of God.</hi> This is that God looks upon, as the great affront and indignity done unto him: What (ſaith God?) will he be drunk <hi>before me?</hi> will he ſwear, blaſpheme <hi>before me?</hi> will he be unclean <hi>before me?</hi> will he break my Laws
+<hi>before me?</hi> Ah brethren, to conſider, the <hi>infinite horrible wickedneſſes</hi> that are committed in this <hi>King<g ref="char:EOLhyphen"/>dom,</hi> and that they are <hi>all before the eye of God,</hi> that <hi>God</hi> ſtands and views them <hi>all, God</hi> ſtands and <hi>looks on,</hi> it would amaze any man, and make him in aſtoniſhment cry out,<note place="margin">
+                  <hi>Sen.</hi> Trag.</note> as once the Heathen did, <hi>Magne regnator coeli, tam lentus audis ſcelera? tam lentus vides?</hi> Great God of heaven, canſt thou with ſo much patience, hear and ſee ſuch wickedneſſes?</p>
+            <p>Secondly, This, that <hi>all things are naked and open unto the eyes of him, with whom we have to doe,</hi> ſhould admo<g ref="char:EOLhyphen"/>niſh us, as to take heed of all ſin, ſo eſpecially and in particular, to take heed of putting off or delaying any part of that ſervice we owe unto God, or that duty he requires of us, either towards himſelf or men, upon any pretences or excuſes, how juſt ſoever they may ſeem to men or to our own conſciences: for <hi>God</hi> knows us better then men, better then our own conſciences. <pb n="41" facs="tcp:113948:24"/>There is a ſingular text for this purpoſe, <hi>Prov.</hi> 24.11,<note place="margin">Pro. 24.11, 12.</note> 12.
+<hi>If thou forbear to deliver them that are drawn to death, and thoſe that are ready to be ſlain: if thou ſaieſt, Behold we knew it not: doth not he that pondreth the heart, conſider? and he that keepeth thy ſoul, doth not he know it? and ſhall not he render unto every man according to his work?</hi> In this text is <hi>counſel,</hi> and <hi>caution,</hi> given to all in their ſeverall places, to endeavour with their utmoſt abili<g ref="char:EOLhyphen"/>ty, to deliver thoſe that are unjuſtly oppreſſed and like to be ruined, and to
+<hi>take heed</hi> that they do not put off this duty from themſelves, that they do not ſeek excuſes, and plead ignorance, to ſay they knew not ſuch a one was in trouble, or if they did, yet they knew that he ſuffered trouble as a righteous perſon; for ought they know he may have pulled this trouble upon himſelf: or if they know that too, yet they knew not how to help and ſuccour him. Take heed of ſuch excuſes as theſe. <hi>If thou ſayeſt, behold thou knew<g ref="char:EOLhyphen"/>eſt it not,</hi> &amp;c. Oughteſt thou not to have known it? mightſt thou not have known it? Certainly it is the duty of every good Chriſtian in his place and ſphere to do as <hi>Job</hi> did,
+<hi>Job</hi> 29.16, 17. <hi>I was a father to the poor, and the cauſe which I knew not, I ſearched out, and I brake the jaws of the wicked, and plucked the ſpoil out of their teeth.</hi> It is not enough for thee to ſay, <hi>Behold thou kneweſt it not:</hi> That which thou <hi>kneweſt not,</hi> thou ought<g ref="char:EOLhyphen"/>eſt to have <hi>ſearched out,</hi> elſe thou doeſt excuſe one neg<g ref="char:EOLhyphen"/>lect by a worſer, and aſſuredly God will finde this out, for <hi>doth not he that pondereth the heart conſider it? and hee that keepeth thy ſoul doth not he know it? and ſhall not he render unto every man according to his work?</hi>
+            </p>
+            <p>And here <hi>Right Honourable</hi> and <hi>beloved</hi> let me in hu<g ref="char:EOLhyphen"/>mility <pb n="42" facs="tcp:113948:25"/>and faithfullneſſe direct a few words more eſ<g ref="char:EOLhyphen"/>pecially unto you. You know, <hi>beloved,</hi> and we all know how the good hand of God,<note place="margin">Nehem. 9.27. Obad. 21.</note> raiſed you up to be <hi>ſavi<g ref="char:EOLhyphen"/>ours</hi> to theſe kingdomes in a very neceſſitous time. When theſe kingdomes were (to keep the language of the text,) <hi>drawn to death, and even ready to be ſlain,</hi> the Lord then raiſed you up to be <hi>ſaviours</hi> to us, to ſave theſe kingdomes from preſent and imminent deſtructi<g ref="char:EOLhyphen"/>on: and O with what <hi>Zeal</hi> and
+<hi>forwardneſſe</hi> did you gird your ſelves unto this great work! how ready were you to enquire and be informed, of all <hi>grievances,</hi> and
+<hi>preſſures, publique</hi> or <hi>perſonall?</hi> how <hi>wholly</hi> did you <hi>devote</hi> and <hi>give</hi> up your <hi>ſelves</hi> to underſtand the eſtate of the <hi>kingdom,</hi> and to reform abuſes and grievances both in <hi>Church</hi> and <hi>State!</hi> And through the good hand of God upon your counſels and labours, many particular perſons, that
+<hi>were drawn to death, and ready to be ſlain;</hi> yea even buried alive in
+<hi>perpetuall exile</hi> and <hi>impriſonment,</hi> have been reſtored to their lives and li<g ref="char:EOLhyphen"/>berties: yea and this <hi>whole kingdome,</hi> hath been by you, under God, <hi>ſaved</hi> and <hi>preſerved</hi> unto that condi<g ref="char:EOLhyphen"/>tion in which we are this day. Yet give me leave <hi>Ho<g ref="char:EOLhyphen"/>nourable and beloved,</hi> to ſet before your eyes and hearts, a ſad ſpectable of ſome that are at this day <hi>drawn to death, and ready to be ſlain,</hi> who ſtretch out their cra<g ref="char:EOLhyphen"/>ving hands to you, for ſuccour and deliverance. And in the fear of God, and in the bowels of our <hi>Lord Jeſus</hi> I beſeech you, to take heed how you turn away your eyes from them, and think another day to ſay,
+<hi>Behold we knew it not.</hi>
+            </p>
+            <p>I will not mention thoſe many widows and or<g ref="char:EOLhyphen"/>phans whoſe cries are daily in your ears, and plead their <pb n="43" facs="tcp:113948:25"/>cauſe more
+<hi>pathetically</hi> then I or any elſe can do. You have done very Nobly and juſtly in putting your ſelves into a way of releeving them: only remember,<note place="margin">Pro. 3.28.</note> 
+               <hi>Bis dat qui citò dat.</hi>
+            </p>
+            <p>Nor will I urge you to a compaſſionate ſenſe of many poor decayed men, who lye in our priſons rotting (as it were) alive: You have begun already to take pity up<g ref="char:EOLhyphen"/>on their wofull condition, and have appointed a Com<g ref="char:EOLhyphen"/>mittee to conſider of ſome way for their relief, as may ſtand with the juſtice and goodneſſe of this Honoura<g ref="char:EOLhyphen"/>ble houſe. Onely I humbly pray you, what may be done for theſe poor creatures, let it be done ſpeedily. Nor will I inſiſt upon the complaints of a third fort a<g ref="char:EOLhyphen"/>mong us, who are as it were <hi>drawn to death, and ready to be ſlain,</hi> and they are many honeſt men, ſuch as thoſe of <hi>Zebulon,</hi> 1 Chron.
+12.33. <hi>who were not of a double heart,</hi> who having <hi>ſingly</hi> and <hi>firmly</hi> adhered to you in all the time of your troubles, and done you faith<g ref="char:EOLhyphen"/>full ſervice, chearfully obeyed your orders, and vigo<g ref="char:EOLhyphen"/>rouſly proſecuted them upon their delinquent land<g ref="char:EOLhyphen"/>lords or neighbours, as the neceſſity of thoſe diſtracted times did require; hereby they are become the ob<g ref="char:EOLhyphen"/>jects of the envy and malice of theſe delinquents: ſome being vexed and moleſted with ſuites in law, having actions of battery and falſe impriſonment laid upon them, others oppreſſed by their delinquent landlords in their fines and leaſes, or in the redemanding of thoſe rents, which they have already paid into the hands of your ſequeſtratours. I know that upon complaint, a<g ref="char:EOLhyphen"/>ny that are unjuſtly moleſted, ſhall finde reliefe at your hands. But in the mean time it is a matter of joy and triumph to your enemies, if they can create a vexation <pb n="44" facs="tcp:113948:26"/>to your friends: and to your friends it is a petty death to be thus vexed, for nothing but favouring your ſer<g ref="char:EOLhyphen"/>vice. Might not your wiſedome think upon ſome courſe to check this inſolency in delinquents?</p>
+            <p>But theſe are but private evils, and they are but ſome few perſons and families that grone under them, for relief at your hands: I will ſhew you <hi>Kingdoms, Na<g ref="char:EOLhyphen"/>tions,</hi> dying, periſhing, if you make not haſt to ſuccour them.</p>
+            <p>There is <hi>Ireland,</hi> poor <hi>Ireland,</hi> that's <hi>drawn to death,</hi> that's <hi>ready to be ſlain,</hi> that's more then half ſlain alrea<g ref="char:EOLhyphen"/>dy; that lies bleeding, gaſping, ready to give up the ghoſt: doe we not with trembling hearts expect every day when we ſhould hear that
+<hi>Ireland</hi> is dead, periſh<g ref="char:EOLhyphen"/>ed, loſt? I am ſure you will not, you cannot ſay, <hi>behold we know it not.</hi> O then doe not fore-ſlow your aid, and their deliverance. Now God hath given you ſo glo<g ref="char:EOLhyphen"/>rious a conqueſt over your enemies at home, O let your eyes and hearts be upon <hi>Ireland,</hi> and doe ſomething <hi>ſpeedily, vigorouſly,</hi> for the delivering of your brethren, <hi>that are drawn to death,</hi> that <hi>are ready to be ſlain,</hi> that <hi>are killed all the day long:</hi> ſo ſhall not the blood of <hi>Ireland</hi> be required at the hand of <hi>England.</hi>
+            </p>
+            <p>There is alſo another object of your <hi>commiſeration,</hi> and that is <hi>England,</hi> our own <hi>dear England,</hi> that hath languiſhed of a bloody iſſue, almoſt half as long as that woman in the Goſpel, till the very ſtrength and vi<g ref="char:EOLhyphen"/>tals of it are almoſt exhauſted. I may ſay to you of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as <hi>Pharaohs</hi> ſervants did of
+<hi>Egypt, Knoweſt thou not that the whole land is destroyed,</hi> Exod.
+20.7? I know you have uſed many means for the gaining of our pea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, go on in thoſe endeavours ſtill, and proſecute them now <pb n="45" facs="tcp:113948:26"/>more then ever: and the Lord ſo bleſſe them with ſuc<g ref="char:EOLhyphen"/>ceſſe, that your enemies may ſee and be forced to ac<g ref="char:EOLhyphen"/>knowledge (what we have affirmed all this while) to wit, that
+<hi>a holy, righteous, ſafe peace,</hi> a <hi>peace</hi> with <hi>truth,</hi> a <hi>peace</hi> with <hi>reformation,</hi> was all you aimed at in your warres.</p>
+            <p>There is yet another <hi>dying object</hi> of your pity; and that is <hi>Truth, Religion, the Goſpel, the Lord Jeſus Chriſt,</hi> that lies a bleeding, that's <hi>drawn to death, ready to be ſlain:</hi> O <hi>doe not</hi> I beſeech you <hi>forbear to deliver them.</hi> There is ſcarce any truth of Chriſt, any Doctrine of the Go<g ref="char:EOLhyphen"/>ſpel, any point of our Religion, but by ſome temera<g ref="char:EOLhyphen"/>rious hand or other hath been invaded, aſſaulted, mai<g ref="char:EOLhyphen"/>med, ready to be ſlain. The <hi>Doctrine</hi> of the
+<hi>Trinity,</hi> of the <hi>God-head</hi> of <hi>Chriſt,</hi> and of the
+<hi>holy Ghoſt,</hi> of the <hi>veri<g ref="char:EOLhyphen"/>ty</hi> of the <hi>Scriptures;</hi> the
+<hi>Doctrine</hi> of <hi>Election,</hi> of <hi>Redem<g ref="char:EOLhyphen"/>ption,</hi> of
+<hi>Vocation,</hi> of <hi>Justification,</hi> of <hi>Sanctification;</hi> the
+<hi>work</hi> of <hi>the Spirit,</hi> the <hi>rule</hi> of <hi>life,</hi> of
+<hi>holineſſe;</hi> the <hi>Do<g ref="char:EOLhyphen"/>ctrine</hi> of the <hi>Sacraments,</hi> of the <hi>Immortality</hi> of the <hi>ſoul,</hi> &amp;c. We may ſay with the Prophet <hi>Iſaiah, Truth is fallen in the ſtreets,</hi> Iſa. 59.14. And there me thinks it lies, breathing out <hi>Davids</hi> ſad complaint, <hi>I looked on my right hand, and there was none would know me; Refuge fail<g ref="char:EOLhyphen"/>ed me, no man cared for my ſoul,</hi> Pſal. 142.4. Me thinks I ſee truth and Religion lying in the ſtreets, and crying as the poor creatures doe that lye by the Pallace wall, or in the hole at <hi>Ludgate,</hi> Some mercifull man have pi<g ref="char:EOLhyphen"/>ty upon me for the Lords ſake: but as generally neg<g ref="char:EOLhyphen"/>lected and diſregarded as thoſe poore creatures are. Truth it is, <hi>Right Honourable</hi> and <hi>beloved,</hi> that when firſt you met in Parliament, we were in great danger of <hi>loſing our Religion.</hi> There was a
+<hi>Popiſh, Arminian</hi> faction, <pb n="46" facs="tcp:113948:27"/>that had a deſigne to robus of our <hi>Religion:</hi> God gave you hearts to be very ſenſible of that danger, and to be very zealous for the prevention of it: I, and thou<g ref="char:EOLhyphen"/>ſands more, muſt and will <hi>bear you record, that if it had been poſsible, you would have plucked out your own eyes,</hi> ra<g ref="char:EOLhyphen"/>ther then have parted with the leaſt <hi>Apex</hi> or <hi>Iota</hi> of di<g ref="char:EOLhyphen"/>vine truth, out of a lenity or indulgence to <hi>Papiſt,</hi> or <hi>Arminian,</hi> or <hi>any other Heretick: where is then your for<g ref="char:EOLhyphen"/>mer Zeal?</hi> is Religion and truth leſſe dear and pretious now then it was before? God forbid. Is it in leſſe dan<g ref="char:EOLhyphen"/>ger? O that it were. But, ſurely beloved, our danger in this particular is but a little changed, not quite remo<g ref="char:EOLhyphen"/>ved: then indeed
+<hi>Religion</hi> was in danger of <hi>a more vio<g ref="char:EOLhyphen"/>lent and quick diſpatch,</hi> and now it is in danger of a more <hi>lingring,</hi> but
+<hi>as ſure a death:</hi> then it was like to have been <hi>diſpatched</hi> with <hi>one thrust</hi> of a <hi>ſword,</hi> or <hi>one chop</hi> of a
+<hi>hatchet,</hi> by the hand of <hi>known</hi> and <hi>undoubted enemies;</hi> now it is like to be <hi>ſtabbed to death</hi> with <hi>bodkins,</hi> with
+<hi>variety</hi> and <hi>multiplicity</hi> of <hi>errours,</hi> that have wounded our <hi>Religion</hi> in every <hi>vein:</hi> And this
+<hi>aſſaſsinate</hi> upon <hi>Re<g ref="char:EOLhyphen"/>ligion,</hi> committed by thoſe that would be counted her chief and onely <hi>friends.</hi> Lift up your eyes and conſider; doe you not ſee the <hi>body</hi> of our <hi>Religion,</hi> lying like the body of <hi>Caeſar,</hi> after he was murthered in the
+<hi>Senate-houſe,</hi> with above <hi>twenty</hi> ſeverall <hi>wounds,</hi> given him by the hands of his own <hi>friends</hi> and confederates? or like the body of <hi>Caſsianas,</hi> whom two hundred of his own ſchool-boyes
+<hi>stabbed</hi> to death with the <hi>pins</hi> of their
+<hi>writing-Tables?</hi> May we not ſay of Religion, as <hi>Pra<g ref="char:EOLhyphen"/>dentius</hi> doth of that Martyrs picture?</p>
+            <q>
+               <l>
+                  <note place="margin">Pruden. Periſt. Hymn 9.</note>Plagas mille gerens, totos lacerata per artus</l>
+               <l>Ruptam minutis praeterens punctis cutem.</l>
+            </q>
+            <pb n="47" facs="tcp:113948:27"/>
+            <p>Truly when I behold <hi>the face</hi> and <hi>ſtate of Religion</hi> a<g ref="char:EOLhyphen"/>mong us, it is in mine eyes, as if the Lord <hi>Jeſus Chriſt</hi> were <hi>crucified afreſh,</hi> and <hi>put to open ſhame</hi> in the midſt of us. Here comes a blaſphemous <hi>Arrian,</hi> and he <hi>wounds his head,</hi> by <hi>denying him</hi> to be <hi>God.</hi> There comes a <hi>ſectary</hi> that's a flat <hi>Arminian,</hi> though he hath not wit enough to know it, and he <hi>wounds him</hi> through <hi>the heart,</hi> by maintaining <hi>univerſall redemption,</hi> and that
+<hi>Chriſt ſhed</hi> his <hi>blood</hi> for <hi>all men,</hi> a thing, that never entred into the <hi>heart of Chriſt.</hi> There comes an
+<hi>Antinomian,</hi> and he <hi>pierceth his hands and his feet,</hi> by denying that exact <hi>walking</hi> and <hi>working</hi> by the <hi>rule of the Morall Law,</hi> which <hi>Jeſus Chriſt</hi> came not to give an
+<hi>indulgence</hi> or <hi>diſpenſation</hi> from, but to <hi>give</hi> himſelf an <hi>example</hi> of: <hi>At<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> haec impunè.</hi> Can you plead ignorance of theſe things, and ſay, <hi>behold we know it not?</hi> you cannot; bleſ<g ref="char:EOLhyphen"/>ſed be God you doe not: you have begun to ſet your faces againſt theſe <hi>blaſphemies</hi> and <hi>hereſies,</hi> that <hi>(ſervis dormientibus)</hi> are broken in upon us. <hi>Go on in this your might,</hi> to ſtop the mouth of all ungodlineſſe, and the zeal of the Lord of hoſts be your ſtrength. I know it hath been ſaid by ſome, that becauſe a <hi>heart</hi> to <hi>know</hi> and <hi>embrace</hi> the
+<hi>truth</hi> is the <hi>gift of God,</hi> and the <hi>Magi<g ref="char:EOLhyphen"/>strate</hi> cannot by <hi>forcible means work</hi> ſuch a heart in men, therefore the Magiſtrate muſt uſe no <hi>compulſion</hi> or <hi>coercion</hi> in matters of Religion: but certainly, though the <hi>Magiſtrate cannot give grace,</hi> yet he may <hi>compell</hi> men to <hi>attend</hi> upon thoſe
+<hi>meanes</hi> where <hi>God</hi> doth <hi>uſually give that grace:</hi>
+               <note place="margin">2 Chron. 34. 38 Ezra. 10.7, 8.</note> Elſe you muſt <hi>not only repeal</hi> the <hi>Laws</hi> that <hi>enjoin Papiſts to come to our Churches,</hi> but repent of them, as yours and the Nations ſins. And though the <hi>Magi<g ref="char:EOLhyphen"/>ſtrate cannot</hi> give <hi>men a heart to know</hi> and <hi>love the truth,</hi> 
+               <pb n="48" facs="tcp:113948:28"/>yet certainly the
+<hi>Magiſtrate</hi> may <hi>make Laws</hi> to <hi>reſtrain</hi> and
+<hi>puniſh errours and blaſphemies</hi> that are againſt the truth: elſe, <hi>pari ratione,</hi> becauſe a <hi>chaſt heart,</hi> or a
+<hi>true and loyall heart,</hi>
+               <note place="margin">Dan. 3.29.</note> is the gift of God, and the <hi>Magiſtrate</hi> by all his <hi>penall Laws,</hi> cannot
+<hi>make men</hi> have <hi>ſuch hearts,</hi> there<g ref="char:EOLhyphen"/>fore the
+<hi>Magiſtrate</hi> may not make <hi>Laws,</hi> to <hi>puniſh, adul<g ref="char:EOLhyphen"/>tery, inceſt, theft, treaſon:</hi> were this <hi>good Divinity,</hi> or <hi>good policie?</hi> Go on, go on <hi>Right Honourable</hi> and <hi>belo<g ref="char:EOLhyphen"/>ved,</hi> let not ſuch <hi>ſhadows</hi> as theſe ſtay you: Remember the <hi>vows of God</hi> are upon you, for the extirpation of <hi>hereſie, ſuperstition, ſchiſme, profaneneſſe, and of whatſo<g ref="char:EOLhyphen"/>ever is contrary to ſound Doctrine and the power of godlineſſe,</hi> as well as of <hi>Popery and Prelacy.</hi> Re<g ref="char:EOLhyphen"/>member, the <hi>vows of God are upon you,</hi> and <hi>the eyes of God are upon you,</hi> and the Lord give you ſtrength ſo to
+<hi>perform your vows,</hi> as you may <hi>finde acceptance</hi> in his eyes.
+<hi>Amen. Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
